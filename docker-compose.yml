@@ -1,0 +1,14 @@
+version: "3.3"
+
+services:
+  jupyter-hub:
+    build: ./
+    # environment: 
+    #   - GITLAB_HOST=http://git.leafnoise.io
+    # command: bash -c "pip install oauthenticator && jupyterhub -f /etc/jupyterhub/jupyterhub_config.py"
+    volumes:
+      - ./volumes/jupyterhub/config/jupyterhub_config_custom.py:/etc/jupyterhub/jupyterhub_config.py
+      - ./requirements.txt:/etc/jupyterhub/requirements.txt
+      - ./volumes/jupyterhub:/etc/jupyterhub/home
+    ports:
+      - 8000:8000
