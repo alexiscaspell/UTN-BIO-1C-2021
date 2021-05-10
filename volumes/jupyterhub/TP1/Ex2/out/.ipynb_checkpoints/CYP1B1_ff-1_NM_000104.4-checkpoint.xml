@@ -1,0 +1,1479 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.11.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_45585</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>1739</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_45585</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>1739</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>emb|CAA0401366.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0401366</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>184.111</Hsp_bit-score>
+      <Hsp_score>466</Hsp_score>
+      <Hsp_evalue>1.5499e-48</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>RQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGG-RSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRS-RQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVAN--VMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFL---DKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR-ANPNEPAKMNF--SYGLTIK</Hsp_qseq>
+      <Hsp_hseq>RRSRSHNNRLPPGPNPWPIIGNLPHMGPKPHRTLSAMVTTYGPILHLRLGFVDVVVAASKSVAEQFLKIHDANFASRPPNSGAKHMAYNYQDLVFAPYGHRWRLLRKI--SSVHLFSAKALEDFKHVRQEEVGTLTRELVRVGTKPVNLGQLVN---MCVVNALGREMIGRRLFGADADHKADEFRSMVTEMMALAGVFNIGDFVPSLDWLD-----LQGVAGKMKRLHKRFDAFLSSILIEH-EMNGQDQKHTDMLSTLISLKGTDLDGD---GGSLTDTE-IKALLLNMFTAGTDTSASTVDWAIAELIRHPDIMVKAQAELDIVVGRDRPVNESDISQLPYLQAVIKENFRLHPPTPLSLPHIASESCEINGYHIPKGSTLLTNIWAIARDPDQWSDPLAFKPERFLPGGEKSGVDVKGSDFELIPFGAGRRICAGLSLGLRTIQFLTATLVQGFDWELAGGVTPEKLNMEESYGLTLQ</Hsp_hseq>
+      <Hsp_midline>R+ R      PPGP  WP+IGN   +G   H + + +   YG +  +RLG   +VV   +    Q L    + FA RP  +  + ++   + + F  Y   W++ R+   S +  F  +     + V +  V +  RELV +  +    G  ++   + VV      ++    FG    H   EFR +++           G  V  + WL      ++ V  + ++L++ F  F+    + H E         DM+   I        GD   GG+  D E + A + ++F A  DT ++ + W +    R+PD+  + QAELD VVGRDR     D   LPY+ A + E  R     P+++PH  + +  + GYHIPK + +  N W++  DP +W +P  F P RFL   +K G+  K     ++ F  G+R C G  L    +    + L    D+  A    P K+N   SYGLT++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|NP_196416.1|</Hit_id>
+  <Hit_def>Cytochrome P450 superfamily protein [Arabidopsis thaliana] &gt;sp|Q9SD85.1| RecName: Full=Flavonoid 3&apos;-monooxygenase; AltName: Full=Cytochrome P450 75B1; AltName: Full=Flavonoid 3&apos;-hydroxylase; Short=AtF3&apos;H; AltName: Full=Protein TRANSPARENT TESTA 7 [Arabidopsis thaliana] &gt;emb|SDV18357.1| flavone-3&apos;-hydroxylase [Arabidopsis thaliana] [Streptomyces albus] &gt;gb|AAF60189.1| flavonoid 3&apos;hydroxylase [Arabidopsis thaliana] &gt;gb|AAF73253.1| flavonoid 3&apos;-hydroxylase [Arabidopsis thaliana] &gt;gb|AAG16745.1| flavonoid 3&apos;-hydroxylase [Arabidopsis thaliana] &gt;gb|AAG16746.1| flavonoid 3&apos;-hydroxylase [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_196416</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>183.726</Hsp_bit-score>
+      <Hsp_score>465</Hsp_score>
+      <Hsp_evalue>2.2552e-48</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>RQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGG-RSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRS-RQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVAN--VMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFL---DKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR-ANPNEPAKMNF--SYGLTIK</Hsp_qseq>
+      <Hsp_hseq>RRNRSHNNRLPPGPNPWPIIGNLPHMGTKPHRTLSAMVTTYGPILHLRLGFVDVVVAASKSVAEQFLKIHDANFASRPPNSGAKHMAYNYQDLVFAPYGHRWRLLRKI--SSVHLFSAKALEDFKHVRQEEVGTLTRELVRVGTKPVNLGQLVN---MCVVNALGREMIGRRLFGADADHKADEFRSMVTEMMALAGVFNIGDFVPSLDWLD-----LQGVAGKMKRLHKRFDAF-LSSILKEHEMNGQDQKHTDMLSTLISLKGTDLDGD---GGSLTDTE-IKALLLNMFTAGTDTSASTVDWAIAELIRHPDIMVKAQEELDIVVGRDRPVNESDIAQLPYLQAVIKENFRLHPPTPLSLPHIASESCEINGYHIPKGSTLLTNIWAIARDPDQWSDPLAFKPERFLPGGEKSGVDVKGSDFELIPFGAGRRICAGLSLGLRTIQFLTATLVQGFDWELAGGVTPEKLNMEESYGLTLQ</Hsp_hseq>
+      <Hsp_midline>R+ R      PPGP  WP+IGN   +G   H + + +   YG +  +RLG   +VV   +    Q L    + FA RP  +  + ++   + + F  Y   W++ R+   S +  F  +     + V +  V +  RELV +  +    G  ++   + VV      ++    FG    H   EFR +++           G  V  + WL      ++ V  + ++L++ F  F L   L+  E         DM+   I        GD   GG+  D E + A + ++F A  DT ++ + W +    R+PD+  + Q ELD VVGRDR     D   LPY+ A + E  R     P+++PH  + +  + GYHIPK + +  N W++  DP +W +P  F P RFL   +K G+  K     ++ F  G+R C G  L    +    + L    D+  A    P K+N   SYGLT++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|NP_182079.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 76, subfamily C, polypeptide 4 [Arabidopsis thaliana] &gt;sp|O64635.1| RecName: Full=Cytochrome P450 76C4 [Arabidopsis thaliana] &gt;gb|AAC06156.1| putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AEC10569.1| cytochrome P450, family 76, subfamily C, polypeptide 4 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_182079</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>180.259</Hsp_bit-score>
+      <Hsp_score>456</Hsp_score>
+      <Hsp_evalue>2.85283e-47</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>516</Hsp_align-len>
+      <Hsp_qseq>IQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSA--PPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHY----------SEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREF-EQLNRNFSNFILDKFL-RHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>ISGQALFLLFCFISSCFLISTTARSRRSSGRAATLPPGPPRLPIIGNIHQVGKNPHSSFADLAKIYGPIMSLKFGCLNSVVITSPEAAREVLRTHDQILSGRKSNDSIR--------CFGHEEVSVIWLPPSSARWRMLRKLSVTLMFS-----PQRTEATKALRMKKVQELVSFMNESSERKEAVDISRASYTTVLNIISNILFSVDLGSYDSKKSNEFQDTVIGAMEAAGKPDAANYFPFMGFLDLQGN--RKAMRGLTERLFRVFRGFMDAKIAEKSLGNYSKDVSNRDFLDSLLILNE--------GDEAELDNNDIEHLLLDMFTAGTDTSSSTLEWAMAELLRNPKTMVKAQAEMDRVLGQNSVVQESDISGLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVLVNVWAIGRDPSVWENPSQFEPERFMGKD-IDVKGRDYELTPFGGGRRICPGLPLAVKTVSLMLASLLYSFDWKL-PNGVVSEDLDMDETFGITL</Hsp_hseq>
+      <Hsp_midline>I    L LL   +++  +     R RR   R+A  PPGP   P+IGN   VG+  H SFA LA+ YG +  ++ G    VV+    A  + L       + R +  S R         FGH           S  W++ R+ + ++M +     P+  +  +   + + +ELV+ +   S     +D    +   V N++S + F    G   S    EF++ +    E      A +    M +L    N  R   R   E+L R F  F+  K   +   +     + RD +D+ ++  E        G  A LD  ++   + D+F A  DT S+ L+W +    R P    + QAE+D+V+G++ +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT V VN W++  DP  W NP  F+P RF+ KD +  K     +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++G+T+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|OAP09091.1|</Hit_id>
+  <Hit_def>CYP76C4 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAP09091</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>178.333</Hsp_bit-score>
+      <Hsp_score>451</Hsp_score>
+      <Hsp_evalue>1.31276e-46</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>516</Hsp_align-len>
+      <Hsp_qseq>IQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSA--PPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHY----------SEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREF-EQLNRNFSNFILDKFL-RHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>ISGQALFLLFCFISSCFLISTTARSRRSSGRAATLPPGPPRLPIIGNIHQVGKNPHSSFADLAKIYGPIMSLKFGCLNSVVITSPEAAREVLRTHDQILSGRKSNDSIR--------CFGHEEVSVIWLPPSSARWRMLRKLSVTLMFS-----PQRTEATKALRMKKVQELVSFMNESSERKEAVDISRASYTTVLNIISNILFSVDLGSYDSKKSNEFQDTVIGAMEAAGKPDAANYFPFMGFLDLQGN--RKAMRGLTERLFRVFRGFMDAKIAEKSLGNYSKDVSNRDFLDSLLILNE--------GDEAELDNNDIEHLLLDMFTAGTDTSSSTLEWAMAELLRNPKTMVKAQAEMDRVLGQNSVVQESDISGLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVLVNVWAIGRDPSVWENPSQFEPERFMGKE-IDVKGRDYELTPFGGGRRICPGLPLAVKTVSLMLASLLYSFDWKL-PNGVVSEDLDMDETFGITL</Hsp_hseq>
+      <Hsp_midline>I    L LL   +++  +     R RR   R+A  PPGP   P+IGN   VG+  H SFA LA+ YG +  ++ G    VV+    A  + L       + R +  S R         FGH           S  W++ R+ + ++M +     P+  +  +   + + +ELV+ +   S     +D    +   V N++S + F    G   S    EF++ +    E      A +    M +L    N  R   R   E+L R F  F+  K   +   +     + RD +D+ ++  E        G  A LD  ++   + D+F A  DT S+ L+W +    R P    + QAE+D+V+G++ +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT V VN W++  DP  W NP  F+P RF+ K+ +  K     +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++G+T+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>emb|CAA0377082.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0377082</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.178</Hsp_bit-score>
+      <Hsp_score>448</Hsp_score>
+      <Hsp_evalue>2.85473e-46</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>516</Hsp_align-len>
+      <Hsp_qseq>IQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSA--PPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHY----------SEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREF-EQLNRNFSNFILDKFL-RHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>ISRQALFLLFCFISSCFLISTTARSRRSSGRAATLPPGPPRLPIIGNIHQVGKNPHSSFADLAKIYGPIMSLKFGCLNSVVITSPEAAREVLRTHDQILSGRKSNDSIR--------CFGHEEVSVIWLPPSSARWRMLRKLSVTLMFS-----PQRTEATKALRMKKVQELVSFMNESSERKEAVDISRASYTTVLNIISNILFSVDLGSYDSKKSNEFQYTVIGAMEAAGKPDAANYFPFMGFLDLQGN--RKAMRGLTERLFRVFRGFMDAKIAEKSLGNYSKDVSNRDFLDSLLILNE--------GDEAELDNNDIEHLLLDMFTAGTDTSSSTLEWAMAELLRNPKTMVKAQAEMDRVLGQNSVVQESDISGLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVLVNVWAIGRDPSVWENPSQFEPERFMGKE-IDVKGRDYELTPFGGGRRICPGLPLAVKTVSLMLASLLYSFDWKL-PNGVVSEDLDMDETFGITL</Hsp_hseq>
+      <Hsp_midline>I +  L LL   +++  +     R RR   R+A  PPGP   P+IGN   VG+  H SFA LA+ YG +  ++ G    VV+    A  + L       + R +  S R         FGH           S  W++ R+ + ++M +     P+  +  +   + + +ELV+ +   S     +D    +   V N++S + F    G   S    EF+  +    E      A +    M +L    N  R   R   E+L R F  F+  K   +   +     + RD +D+ ++  E        G  A LD  ++   + D+F A  DT S+ L+W +    R P    + QAE+D+V+G++ +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT V VN W++  DP  W NP  F+P RF+ K+ +  K     +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++G+T+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>emb|VYS55623.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>VYS55623</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>176.792</Hsp_bit-score>
+      <Hsp_score>447</Hsp_score>
+      <Hsp_evalue>3.70982e-46</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>516</Hsp_align-len>
+      <Hsp_qseq>IQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSA--PPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHY----------SEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREF-EQLNRNFSNFILDKFL-RHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>ISGQALFLLFCFISSCFLISTTARSRRSSGRAATLPPGPPRLPIIGNIHQVGKNPHSSFADLAKIYGPIMSLKFGCLNSVVITSPEAAREVLRTHDQILSGRKSNDSIR--------CFGHEEVSVIWLPPSSARWRMLRKLSVTLMFS-----PQRTEATKALRMKKVQELVSFMNESSERKEAVDISRASYTTVLNIIANILFSVDLGSYDSKKSNEFQDTVIGAMEAAGKPDAANYFPFMGFLDLQGN--RKAMRGLTERLFRVFRGFMDAKIAEKSLGNYSKDVSNRDFLDSLLILNE--------GDEAELDNNDIEHLLLDMFTAGTDTSSSTLEWAMAELLRNPKTMVKAQAEMDRVLGQNSVVQESDISGLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVLVNVWAIGRDPSVWENPSQFEPERFMGKE-IDVKGRDYELTPFGGGRRICPGLPLAVKTVSLMLASLLYSFDWKL-PNGVVSEDLDMDETFGITL</Hsp_hseq>
+      <Hsp_midline>I    L LL   +++  +     R RR   R+A  PPGP   P+IGN   VG+  H SFA LA+ YG +  ++ G    VV+    A  + L       + R +  S R         FGH           S  W++ R+ + ++M +     P+  +  +   + + +ELV+ +   S     +D    +   V N+++ + F    G   S    EF++ +    E      A +    M +L    N  R   R   E+L R F  F+  K   +   +     + RD +D+ ++  E        G  A LD  ++   + D+F A  DT S+ L+W +    R P    + QAE+D+V+G++ +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT V VN W++  DP  W NP  F+P RF+ K+ +  K     +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++G+T+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>emb|CAD5327670.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAD5327670</Hit_accession>
+  <Hit_len>516</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>173.326</Hsp_bit-score>
+      <Hsp_score>438</Hsp_score>
+      <Hsp_evalue>7.6024e-45</Hsp_evalue>
+      <Hsp_query-from>167</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>484</Hsp_align-len>
+      <Hsp_qseq>RRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHV---LSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>KRSPQPSLPPGPRGLPIVGNLPFLDPDLHTYFANLAQSHGPIFKLNLGSKLTVVVNSPSLAREILKDQDINFSNRDVPLTGRAATYGGIDIVWTPYGAEWR--------QLRKICVLKLLSRKTLDSFYELRRKEVRERTRYLYEQGQKGSPVKVGDQLFLTMMNLTMNMLWGGSVKAEEMESVGTEFKGVIS---EITRLLSEPNVSDFFPWLARFD--LQGLVKRMGVCAREL-DAVLDRAIEQMKPLR--GRDDDEVKDFLQYLMKLKDQEGDSE---VPITINHVKALLTDMVVGGTDTSTNTIEFAMAELMSNPELIKRAQEELDEVVGKDNIVEESHITRLPYILAIMKETLRLHPTLPLLVPHRPAENTVVGGYTIPKDTKIFVNVWSIQRDPNVWENPTEFGPERFLDNNSCDFTGANYSYFPFGSGRRICAGVALAERMVLYTLATLLHSFDWKIPEGHVLDLKEKFGIVLKLKT</Hsp_hseq>
+      <Hsp_midline>+R    S PPGP   P++GN   +    H  FA LA+ +G +F++ LGS   VV+N      + L  Q   F++R    + R  + GG  + +  Y   W+         +R     +  SR+ L+        E RE    L      G+ +       + + N+   + +G     ++      EF+ ++S   E  R +   ++ D  PWL  F   ++ + +      R   + +LD+ +   + LR      D +  F+  L   K   GDS      + + +V A +TD+     DT +  +++ +      P++  R Q ELD+VVG+D +        LPY+LA + E +R    +P+ +PH    NT V GY IPKDT +FVN WS+  DP  W NP  F P RFLD +             F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>emb|CAD5321465.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAD5321465</Hit_accession>
+  <Hit_len>1013</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>178.718</Hsp_bit-score>
+      <Hsp_score>452</Hsp_score>
+      <Hsp_evalue>1.82488e-44</Hsp_evalue>
+      <Hsp_query-from>138</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>498</Hsp_hit-from>
+      <Hsp_hit-to>996</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>142</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>524</Hsp_align-len>
+      <Hsp_qseq>NPLS----IQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSA--PPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHY----------SEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREF-EQLNRNFSNFILDKFL-RHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>NPLHAMDIISGQALFLLFCFISSCFLISTTARSRRSSGRAATLPPGPPRLPIIGNIHQVGKNPHSSFADLAKIYGPIMSLKFGCLNSVVITSPEAAREVLRTHDQILSGRKSNDSIR--------CFGHEEVSVIWLPPSSARWRMLRKLSVTLMFS-----PQRTEATKALRMKKVQELVSFMNESSGRKEAVDISRASYTTVLNIISNILFSVDLGSYDSKKSNEFQDTVIGAMEAAGKPDAANYFPFMGFLDLQGN--RKAMRGLTERLFRVFRGFMDAKIAEKSLGNYSKDVSNRDFLDSLLILNE--------GDEAELDNNDIEHLLLDMFTAGTDTSSSTLEWAMAELLRNPKTMVKAQAEMDRVLGQNSVVQESDISGLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVLVNVWAIGRDPSVWENPSQFEPERFMGKE-IDVKGRDYELTPFGGGRRICPGLPLAVKTVSLMLASLLYSFDWKL-PNGVVSEDLDMDETFGITL</Hsp_hseq>
+      <Hsp_midline>NPL     I    L LL   +++  +     R RR   R+A  PPGP   P+IGN   VG+  H SFA LA+ YG +  ++ G    VV+    A  + L       + R +  S R         FGH           S  W++ R+ + ++M +     P+  +  +   + + +ELV+ +   S     +D    +   V N++S + F    G   S    EF++ +    E      A +    M +L    N  R   R   E+L R F  F+  K   +   +     + RD +D+ ++  E        G  A LD  ++   + D+F A  DT S+ L+W +    R P    + QAE+D+V+G++ +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT V VN W++  DP  W NP  F+P RF+ K+ +  K     +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++G+T+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>166.777</Hsp_bit-score>
+      <Hsp_score>421</Hsp_score>
+      <Hsp_evalue>9.9667e-41</Hsp_evalue>
+      <Hsp_query-from>169</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>490</Hsp_align-len>
+      <Hsp_qseq>RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS--GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWL------QYFP--------NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-GAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANP---NEPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>RGATALPPGPPRLPIIGNIHLVGKHPHRSFAELSKTYGPVMSLKLGSLNTVVIASPEAAREVLRTHDQILSARSPTNAVRSINHQDASLVWLPSSSARWRLLRRLSVTQLLS-----PQRIEATKALRMNKVKELVSFISESSDREESVDISRVAFITTLNIISNILFSV----------DLGSYNAKASINGVQDTVISVMDAAGTPDAANYFPFLRFLDLQGNVKTFKVCTERLVRVFRGFIDAKIAEKSSQNNPKDVSKNDFVDNLL---------DYKGDESELSISDIEHLLLDMFTAGTDTSSSTLEWAMTELLKNPKTMAKAQAEIDCVIGQNGIVEESDISKLPYLQAVVKETFRLHTPVPLLIPRKAESDAEILGFMVLKDTQVLVNVWAIGRDPSVWDNPSQFEPERFLGKD----MDVRGRDYELTPFGAGRRICPGMPLAMKTVSLMLASLLYSFDWKLPKGVLSEDLDMDETFGLTL</Hsp_hseq>
+      <Hsp_midline>R   + PPGP   P+IGN   VG+  H SFA L++ YG V  ++LGS   VV+    A  + L       + R    + R ++      +     S  W++ RR + + + +     P+  +  +   +++ +ELV+ +   S     +D   +  +   N++S + F            +L S+N +        +++ VM          YFP          V+T     E+L R F  FI  K         P   +  D +D  +         D  G  + L + ++   + D+F A  DT S+ L+W +    + P    + QAE+D V+G++ +    D   LPY+ A + E  R  + VP+ IP    ++  +LG+ + KDT V VN W++  DP  W NP  F+P RFL KD     D+  R   +  F  G+R C G  L+   + L ++ L +  D++      +E   M+ ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>emb|CAA0394881.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0394881</Hit_accession>
+  <Hit_len>516</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.785</Hsp_bit-score>
+      <Hsp_score>434</Hsp_score>
+      <Hsp_evalue>2.00694e-44</Hsp_evalue>
+      <Hsp_query-from>167</Hsp_query-from>
+      <Hsp_query-to>638</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>483</Hsp_align-len>
+      <Hsp_qseq>RRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHV---LSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPK</Hsp_qseq>
+      <Hsp_hseq>KRSPQPSLPPGPRGLPIVGNLPFLDPDLHTYFANLAQSHGPIFKLNLGSKLTVVVNSPSLAREILKDQDINFSNRDVPLTGRAATYGGIDIVWTPYGAEWR--------QLRKICVLKLLSRKTLDSFYELRRKEVRERTRYLYEQGQKGSPVKVGDQLFLTMMNLTMNMLWGGSVKAEEMESVGTEFKGVIS---EITRLLSEPNVSDFFPWLARFD--LQGLVKRMGVCAREL-DAVLDRAIEQMKPLR--GRDDDEVKDFLQYLMKLKDQEGDSE---VPITINHVKALLTDMVVGGTDTSTNTIEFAMAELMSNPELIKRAQEELDEVVGKDNIVEESHITRLPYILAIMKETLRLHPTLPLLVPHRPAENTVVGGYTIPKDTKIFVNVWSIQRDPNVWENPTEFRPERFLDNNSCDFTGANYSYFPFGSGRRICAGVALAERMVLYSLATLLHSFDWKIPEGHVLDLKEKFGIVLKLK</Hsp_hseq>
+      <Hsp_midline>+R    S PPGP   P++GN   +    H  FA LA+ +G +F++ LGS   VV+N      + L  Q   F++R    + R  + GG  + +  Y   W+         +R     +  SR+ L+        E RE    L      G+ +       + + N+   + +G     ++      EF+ ++S   E  R +   ++ D  PWL  F   ++ + +      R   + +LD+ +   + LR      D +  F+  L   K   GDS      + + +V A +TD+     DT +  +++ +      P++  R Q ELD+VVG+D +        LPY+LA + E +R    +P+ +PH    NT V GY IPKDT +FVN WS+  DP  W NP  F P RFLD +             F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|NP_192967.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 706, subfamily A, polypeptide 4 [Arabidopsis thaliana] &gt;gb|AAO63874.1| putative cytochrome p450 [Arabidopsis thaliana] &gt;gb|AEE83112.1| cytochrome P450, family 706, subfamily A, polypeptide 4 [Arabidopsis thaliana] &gt;gb|OAO98613.1| hypothetical protein AXX17_AT4G13830 [Arabidopsis thaliana] &gt;gb|OAO99623.1| hypothetical protein AXX17_AT4G13790 [Arabidopsis thaliana] &gt;emb|CAB45977.1| flavonoid 3&apos;, 5&apos;-hydroxylase-like protein [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_192967</Hit_accession>
+  <Hit_len>516</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>169.859</Hsp_bit-score>
+      <Hsp_score>429</Hsp_score>
+      <Hsp_evalue>1.01719e-43</Hsp_evalue>
+      <Hsp_query-from>167</Hsp_query-from>
+      <Hsp_query-to>638</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>36</Hsp_gaps>
+      <Hsp_align-len>486</Hsp_align-len>
+      <Hsp_qseq>RRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRA------AHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPK</Hsp_qseq>
+      <Hsp_hseq>KRSPQPSLPPGPRGLPIVGNLPFLDPDLHTYFANLAQSHGPIFKLNLGSKLTIVVNSPSLAREILKDQDINFSNRDVPLTGRAATYGGIDIVWTPYGAEWRQLRKICVLKLLSRKTLDSFYELRRKEVRERTRYLYEQGRKQSPVKV---GDQLFL--------TMMNLTMNMLWGGSVKAEEMESVGTEFKGVIS---EITRLLSEPNVSDFFPWLARFD--LQGLVKRMGVCAREL-DAVLDRAIEQMKPLR--GRDDDEVKDFLQYLMKLKDQEGDSE---VPITINHVKALLTDMVVGGTDTSTNTIEFAMAELMSNPELIKRAQEELDEVVGKDNIVEESHITRLPYILAIMKETLRLHPTLPLLVPHRPAENTVVGGYTIPKDTKIFVNVWSIQRDPNVWENPTEFRPERFLDNNSCDFTGANYSYFPFGSGRRICAGVALAERMVLYTLATLLHSFDWKIPEGHVLDLKEKFGIVLKLK</Hsp_hseq>
+      <Hsp_midline>+R    S PPGP   P++GN   +    H  FA LA+ +G +F++ LGS   +V+N      + L  Q   F++R    + R  + GG  + +  Y   W+  R+       +   + +F+  + +  +    ++  + R+   + V    D  FL         + N+   + +G     ++      EF+ ++S   E  R +   ++ D  PWL  F   ++ + +      R   + +LD+ +   + LR      D +  F+  L   K   GDS      + + +V A +TD+     DT +  +++ +      P++  R Q ELD+VVG+D +        LPY+LA + E +R    +P+ +PH    NT V GY IPKDT +FVN WS+  DP  W NP  F P RFLD +             F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>emb|CAA0377085.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0377085</Hit_accession>
+  <Hit_len>512</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.933</Hsp_bit-score>
+      <Hsp_score>424</Hsp_score>
+      <Hsp_evalue>4.53012e-43</Hsp_evalue>
+      <Hsp_query-from>169</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>490</Hsp_align-len>
+      <Hsp_qseq>RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS--GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWL------QYFP--------NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-GAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDF---RANPNEPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>RGATALPPGPPRLPIIGNIHLVGKHPHRSFAELSKTYGPVMSLKLGSLNTVVIASPEAAREVLRTHDQILSARSPTNAVRSINHQDASLVWLPSSSARWRLLRRLSVTQLLS-----PQRIEATKALRMNKVKELVSFISESSDREESVDISRVAFITTLNIISNILFSV----------DLGSYNAKASINGVQDTVISVMDAAGTPDAANYFPFLRFLDLQGNVKTFKVCTERLVRVFRGFIDAKIAEKSSQNNPKDVSKNDFVDNLL---------DYKGDESELSISDIEHLLLDMFTAGTDTSSSTLEWAMTELLKNPKTMAKAQAEIDCVIGQNGIVEESDISKLPYLQAVVKETFRLHTPVPLLIPRKAESDAEILGFMVLKDTQVLVNVWAIGRDPSVWDNPSQFEPERFLGKD----MDVRGRDYELTPFGAGRRICPGMPLAMKTVSLMLASLLYSFDWKLPKGALSEDLDMDETFGLTL</Hsp_hseq>
+      <Hsp_midline>R   + PPGP   P+IGN   VG+  H SFA L++ YG V  ++LGS   VV+    A  + L       + R    + R ++      +     S  W++ RR + + + +     P+  +  +   +++ +ELV+ +   S     +D   +  +   N++S + F            +L S+N +        +++ VM          YFP          V+T     E+L R F  FI  K         P   +  D +D  +         D  G  + L + ++   + D+F A  DT S+ L+W +    + P    + QAE+D V+G++ +    D   LPY+ A + E  R  + VP+ IP    ++  +LG+ + KDT V VN W++  DP  W NP  F+P RFL KD     D+  R   +  F  G+R C G  L+   + L ++ L +  D+   +   +E   M+ ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|NP_850439.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 76, subfamily C, polypeptide 1 [Arabidopsis thaliana] &gt;sp|O64636.1| RecName: Full=Cytochrome P450 76C1 [Arabidopsis thaliana] &gt;gb|AAL84945.1| At2g45560/F17K2.9 [Arabidopsis thaliana] &gt;gb|AAM70583.1| At2g45560/F17K2.9 [Arabidopsis thaliana] &gt;gb|AEC10570.1| cytochrome P450, family 76, subfamily C, polypeptide 1 [Arabidopsis thaliana] &gt;gb|OAP07350.1| CYP76C1 [Arabidopsis thaliana] &gt;emb|VYS55624.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_850439</Hit_accession>
+  <Hit_len>512</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.162</Hsp_bit-score>
+      <Hsp_score>422</Hsp_score>
+      <Hsp_evalue>7.42419e-43</Hsp_evalue>
+      <Hsp_query-from>169</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>490</Hsp_align-len>
+      <Hsp_qseq>RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS--GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWL------QYFP--------NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-GAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANP---NEPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>RGATALPPGPPRLPIIGNIHLVGKHPHRSFAELSKTYGPVMSLKLGSLNTVVIASPEAAREVLRTHDQILSARSPTNAVRSINHQDASLVWLPSSSARWRLLRRLSVTQLLS-----PQRIEATKALRMNKVKELVSFISESSDREESVDISRVAFITTLNIISNILFSV----------DLGSYNAKASINGVQDTVISVMDAAGTPDAANYFPFLRFLDLQGNVKTFKVCTERLVRVFRGFIDAKIAEKSSQNNPKDVSKNDFVDNLL---------DYKGDESELSISDIEHLLLDMFTAGTDTSSSTLEWAMTELLKNPKTMAKAQAEIDCVIGQNGIVEESDISKLPYLQAVVKETFRLHTPVPLLIPRKAESDAEILGFMVLKDTQVLVNVWAIGRDPSVWDNPSQFEPERFLGKD----MDVRGRDYELTPFGAGRRICPGMPLAMKTVSLMLASLLYSFDWKLPKGVLSEDLDMDETFGLTL</Hsp_hseq>
+      <Hsp_midline>R   + PPGP   P+IGN   VG+  H SFA L++ YG V  ++LGS   VV+    A  + L       + R    + R ++      +     S  W++ RR + + + +     P+  +  +   +++ +ELV+ +   S     +D   +  +   N++S + F            +L S+N +        +++ VM          YFP          V+T     E+L R F  FI  K         P   +  D +D  +         D  G  + L + ++   + D+F A  DT S+ L+W +    + P    + QAE+D V+G++ +    D   LPY+ A + E  R  + VP+ IP    ++  +LG+ + KDT V VN W++  DP  W NP  F+P RFL KD     D+  R   +  F  G+R C G  L+   + L ++ L +  D++      +E   M+ ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|NP_192969.4|</Hit_id>
+  <Hit_def>cytochrome P450, family 706, subfamily A, polypeptide 6 [Arabidopsis thaliana] &gt;gb|AAU05534.1| At4g12320 [Arabidopsis thaliana] &gt;gb|AEE83114.1| cytochrome P450, family 706, subfamily A, polypeptide 6 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_192969</Hit_accession>
+  <Hit_len>518</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>165.236</Hsp_bit-score>
+      <Hsp_score>417</Hsp_score>
+      <Hsp_evalue>3.76719e-42</Hsp_evalue>
+      <Hsp_query-from>175</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>479</Hsp_align-len>
+      <Hsp_qseq>PPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRA------AHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>PPGPRGLPIVGNLPFLDPDLHTYFTKLAESYGPIFKLNLGSKLTVVVNTPSLAREILKDQDINFSNHDVPLTARAVTYGGLDLVWLPYGAEWRMLRKVCVLKLLSHRTLNSFYELRRK-----------EIRERTRYLYQKGQEESPVNVGEQVFLTMMNLTMNMLWGGSVKAEEMESVGTEFKEVIS---EITRLLGEPNVSDFFPRLARFD--LQGLVKKMHVCAREL-DAILDRAIEQMQLLRTRDGDDGECKDFLQHLMKLKDQEADSE---VPITVNHVKAVLVDLVVGGTDTSTNTIEFAMAELIRKPELMKRAQQELDEVVGKDNIIEESHITRLPFISAIMKETLRLYPTIPLLVPHRPSETALVGGYTIPKNTKIFINVWSIQRDPNVWEYPTEFRPERFLDKKSCDFTGTDYSYLPFGSGRRICAGIALAERMILYTLATLLHSFDWKIPEGHILDLKEKFGIVLKLKS</Hsp_hseq>
+      <Hsp_midline>PPGP   P++GN   +    H  F +LA  YG +F++ LGS   VV+N      + L  Q   F++     + R V+ GG  + +  Y   W++ R+       +H  + +F+  + +           E RE    L +   + + ++      + + N+   + +G     ++      EF+E++S   E  R +G  ++ D  P L  F   ++ + ++     R   + ILD+ +   + LR           F+  L   K    DS      + + +V A + D+     DT +  +++ +    R P++  R Q ELD+VVG+D +        LP++ A + E +R    +P+ +PH  +    V GY IPK+T +F+N WS+  DP  W  P  F P RFLDK            + F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K KS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gb|OAP03508.1|</Hit_id>
+  <Hit_def>CYP71B18 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAP03508</Hit_accession>
+  <Hit_len>523</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.081</Hsp_bit-score>
+      <Hsp_score>414</Hsp_score>
+      <Hsp_evalue>9.842e-42</Hsp_evalue>
+      <Hsp_query-from>148</Hsp_query-from>
+      <Hsp_query-to>596</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>447</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>39</Hsp_gaps>
+      <Hsp_align-len>464</Hsp_align-len>
+      <Hsp_qseq>LLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGG-RSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSH----DDPEFRELLSHNE---------EFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPN-LPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIG</Hsp_qseq>
+      <Hsp_hseq>LFLIAFASLIFLGKKIKRSKW----NFPPSPPKFPVIGNLHQLGELPHRSLQRLAEKTGDVMLIHLGFVPVTVISSKEAAEEVLRTHDLNCCSRPNLVGTRLLSRGFKDVGFTPYGEEWKERRKF---LVREFFSL--KKVQSFGYIREEECNFLVKKLLESAVDQSPVDVSKTLFWLTASVMFRVAFGQSFHESEFIDKDKVDELVFEAETAQASFTCSDFFPIAGLGWLVDCISGQH---KRLKDVFFKLDAL---FQHVIDD----HLHQGRRSKDHIDIVDSMLDVMQKQRKDDS----LKLTINNIKGILTNIFLGGIDTGALTMIWAMTELARNPEVMKKVQGEIRDRLGRNKERITEEDNNKVPYLNLVIKETFRLHHPVPLLLPRETMAHIKVQGYDIPPKRRILVNAWAIGRDPKLWTNPEEFDPERFIDS-PVDCRGQHFELLPFGSGRRICPG</Hsp_hseq>
+      <Hsp_midline>L L++  + + +G+++ R +     + PP P  +P+IGN   +G+  H S  RLA + GDV  I LG  P+ V++ + A  + L         RP     R++S G + + F  Y E WK +R+    ++R FF+   +  Q        E   LV  L+  + D + +D         A+VM  V FG  +      D  +  EL+   E         +F    G G LVD +         ++ VF + + L   F + I D    H    R      D++D+ +   +K+   DS     +L + N+   +T+IF    DT +  + W +    R P+V  +VQ E+   +GR++     +  N +PY+   + E  R    VP+ +P  T A+  V GY IP    + VN W++  DP  W NPE FDP RF+D   +  +     ++ F  G+R C G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>dbj|BAA28540.1|</Hit_id>
+  <Hit_def>cytochrome P450 monooxygenase [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>BAA28540</Hit_accession>
+  <Hit_len>495</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>162.54</Hsp_bit-score>
+      <Hsp_score>410</Hsp_score>
+      <Hsp_evalue>1.75111e-41</Hsp_evalue>
+      <Hsp_query-from>169</Hsp_query-from>
+      <Hsp_query-to>618</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>474</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>48</Hsp_gaps>
+      <Hsp_align-len>470</Hsp_align-len>
+      <Hsp_qseq>RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS--GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWL------QYFP--------NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-GAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR</Hsp_qseq>
+      <Hsp_hseq>RGATALPPGPPRLPIIGNIHLVGKHPHRSFAELSKTYGPVMSLKLGSLNTVVIASPEAAREVLRTHDQILSARSPTNAVRSINHQDASLVWLPSSSARWRLLRRLSVTQLLS-----PQRIEATKALRMNKVKELVSFISESSDREESVDISRVAFITTLNIISNILFSV----------DLGSYNAKASINGVQDTVISVMDAAGTPDAANYFPFLRFLDLQGNVKTFKVCTERLVRVFRGFIDAKIAEKSSQNNPKDVSKNDFVDNLL---------DYKGDESELSISDIEHLLLDMFTAGTDTSSSTLEWPMTELLKNPKTMAKAQAEIDCVIGQNGIVEESDISKLPYLQAVVKETFRLHTPVPLLIPRKAESDAEILGFMVLKDTQVLVNVWAIGRDPSVWDNPSQFEPERFLGKD----MDVRGRDYELTPFGAGRRICPGMPLAMKTVSLMLASLLYSFDWK</Hsp_hseq>
+      <Hsp_midline>R   + PPGP   P+IGN   VG+  H SFA L++ YG V  ++LGS   VV+    A  + L       + R    + R ++      +     S  W++ RR + + + +     P+  +  +   +++ +ELV+ +   S     +D   +  +   N++S + F            +L S+N +        +++ VM          YFP          V+T     E+L R F  FI  K         P   +  D +D  +         D  G  + L + ++   + D+F A  DT S+ L+W +    + P    + QAE+D V+G++ +    D   LPY+ A + E  R  + VP+ IP    ++  +LG+ + KDT V VN W++  DP  W NP  F+P RFL KD     D+  R   +  F  G+R C G  L+   + L ++ L +  D++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|NP_174633.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 76, subfamily C, polypeptide 6 [Arabidopsis thaliana] &gt;gb|AAF97288.1| Putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AEE31618.1| cytochrome P450, family 76, subfamily C, polypeptide 6 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_174633</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>162.54</Hsp_bit-score>
+      <Hsp_score>410</Hsp_score>
+      <Hsp_evalue>2.5803e-41</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>53</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>RQRRR--QLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQ---PRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFP------------NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>RSRRSPCQLSKSPPGPPRLPIIGNIHLVGKNPHHSFTDLSKTYGPVMSLKLGCLNSVVIASRDAVREVLKTHDQILSGR------YISEATKSNNHHEFSVGWIHPSSSRFRMLRKLSATQLFSPQCIQATKALRMKKVQELVNFLSESCEREEAVDISHVSFVTALNIISNILFSVNLGSYDSKNSSAFQEMVIGYQE---SIGNPDLANFFPFMRFLDLQGNSKKMRESSGRLLQVFREF------YDARIVEKSSRSVEK---DVSSKDFLDVLI--------DLQQGDETEINIDEIEHLLLDMFVAGTDTNSSTVEWAMAELLGNPKTMTKVQDEINHVIGQNGDFQESDISKLPYLKAVVKETFRLHPAAPFLLQRKAETNVEILGFTVLKDSQVLVNVWAIGRDPLVWENPTHFEPERFLGKEIDV-KGTDYELTPFGAGRRICPGLPLAMKTVHLMLASLLYTFEWKL-PNGVGSEDLDMEETFGLTV</Hsp_hseq>
+      <Hsp_midline>R RR   QL  +PPGP   P+IGN   VG+  H SF  L++ YG V  ++LG    VV+    A+ + L       + R       +    +S     +S  W     +   M+R     Q   P+  Q  +   + + +ELV  L         +D   ++ V   N++S + F    G   S +   F+E++   +E   ++G   L +  P++++                +  VFREF      +   I++K  R  E      + +D +D  I            G    ++++ +   + D+F A  DT S+ ++W +      P   T+VQ E++ V+G++      D   LPY+ A + E  R     P  +      N  +LG+ + KD+ V VN W++  DPL W NP +F+P RFL K+  + K     +  F  G+R C G  L+   + L ++ L +  +++  PN    E   M  ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gb|AAF97287.1|</Hit_id>
+  <Hit_def>Putative cytochrome P450 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>AAF97287</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.147</Hsp_bit-score>
+      <Hsp_score>396</Hsp_score>
+      <Hsp_evalue>1.43799e-39</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>491</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>56</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>RQRR---RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNFFTR--QPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQY------------FPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>RSRRSPTQVLSKSPPGPPRLPIIGNIHLVGKNPHHSFTDLSKTYGPVMSLKLGYLNSVVITSRDAAREVLKAHDQILSGR------YITQATKSNNHHEFSVGWIHPSSPLEEMT---FTQLFSPQRIEATKALRMKKVQELVNFLSESSERGEAVDISRASFVTALNIISNILFSVNLGSYDSKNSSAFQEMVIG---YMESIGNPDVSNFFPFMRLLDLQGNSKKMKEYSGKLLQVFREF------YDARILENSSRIDEK---DVSSRDFLDALI--------DLQQGDESEINIDEIEHLLLDMFLAGTDTNSSTVEWAMTELLGNPKTMTKVQDEINRVIRQNGDVQESHISKLPYLQAVIKETFRLHPAAPFLLPRKAERDVDILGFHVPKDSHVLVNVWAIGRDPNVWENPTQFEPERFLGKDIDV-KGTNYELTPFGAGRRICPGLPLALKTVHLMLASLLYTFEWKL-PNGVGSEDLDMGETFGLTV</Hsp_hseq>
+      <Hsp_midline>R RR   + L  +PPGP   P+IGN   VG+  H SF  L++ YG V  ++LG    VV+    A  + L       + R       +    +S     +S  W         M    FT+   P+  +  +   + + +ELV  L   S  G  +D    + V   N++S + F    G   S +   F+E++     +  ++G   + +  P+++             +   +  VFREF      +   IL+   R  E      + RD +DA I            G  + ++++ +   + D+F A  DT S+ ++W +      P   T+VQ E+++V+ ++          LPY+ A + E  R     P  +P     +  +LG+H+PKD+ V VN W++  DP  W NP  F+P RFL KD  + K     +  F  G+R C G  L+   + L ++ L +  +++  PN    E   M  ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|OAO91558.1|</Hit_id>
+  <Hit_def>CYP84A4 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAO91558</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.147</Hsp_bit-score>
+      <Hsp_score>396</Hsp_score>
+      <Hsp_evalue>1.76794e-39</Hsp_evalue>
+      <Hsp_query-from>166</Hsp_query-from>
+      <Hsp_query-to>613</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>466</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>456</Hsp_align-len>
+      <Hsp_qseq>QRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADG---AFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMP-WLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPR-DMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQ-PNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAH</Hsp_qseq>
+      <Hsp_hseq>RRQMLLKPYPPGPKGLPVIGNILMMNQFNHRGLAKLSRIYGGLLHLRLGFSHIFVVSSPDIARQVLQVQDHVFSNRPTTIAIRYLTYGGSDLAFCNYGPFWRRMRKLYVMML---FSRKRAESWVSVDEEVHKSVRLVASNVGKPLNICKLAFSLSRDITFRAAFGSSSSTSDESRLD----EFLEII---QEFSKLFGEFNVADYVPSWLSWIDPQGINGRVEKARKSLDGFIESVIDDHLHKKKREHNNVDEETDMVDQLLAFYEEEVK--VNNSVTKINLDNIKGIIMDVMFGGTETVALAIEWVLTELLRSPDNMKRVQDELMSVVGLDRWRVEDTHLEKLTFLKCILKETLRLHPPFPLLL-HETVKDTEISGYFIPKGSRVMVNTYALGRDPNSWSDPEIFNPGRFLDPIAPDLKGNNFEFVPFGSGRRSCPGMQLGLYAFELAVAHLLH</Hsp_hseq>
+      <Hsp_midline>+R+  L+  PPGP   P+IGN   + Q  H   A+L+R YG +  +RLG   I V++      Q L  Q   F++RP   + R ++ GG  +AF +Y   W+  R+    M+   F+R+     V     + ++  LVA  V    +    AF   R +T  A     S+     R      EF E++   +EF +  G  ++ D +P WL +  P  +     +  +    F   ++D  L   +          DM+D  +   E++     +    +++L+N+   I D+     +T++ A++W+L    R PD   RVQ EL  VVG DR          L ++   L E +R     P+ + H T  +T + GY IPK + V VN +++  DP  W +PE F+P RFLD      K      + F  G+R C G +L      L ++ L H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>emb|VYS65930.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>VYS65930</Hit_accession>
+  <Hit_len>529</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.147</Hsp_bit-score>
+      <Hsp_score>396</Hsp_score>
+      <Hsp_evalue>2.55271e-39</Hsp_evalue>
+      <Hsp_query-from>173</Hsp_query-from>
+      <Hsp_query-to>611</Hsp_query-to>
+      <Hsp_hit-from>39</Hsp_hit-from>
+      <Hsp_hit-to>484</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>464</Hsp_align-len>
+      <Hsp_qseq>SAPPGPFAWPLIGNAAAVGQAAHLSF----ARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGR-SMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELV------ALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFR-----ELLSHNEEFGRTVG---AGSLVDVMPWLQYFP-----NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTS-RVMIFSVGKRRCIGEELSKMQLFLFISIL</Hsp_qseq>
+      <Hsp_hseq>SLPPGPKSWPLIGNLPEILGRNKPVFRWIHSLMKELNTDIACIRLANTHVIPVTSPRIAREILKKQDSVFATRPLTMGTEYCSRGYLTVAVEPQGEQWKKMRRVVAS-----HVTSKKSFQMMLQKRTEEADNLVRYINNRSVKNRGNA-FVVIDLRLAVRQYSGNVARKMMFGIRHFGKGSEDRSGPGLEEIEHVESLFTVLTHLYAFALSDYVPWLRFLDLEGHEKVVSNAMRNVSKYNDPF----VDERLMQWRNGK-MKEPQDFLDMFIMAKDTD-------GKPTLSDEEIKAQVTELMLATVDNPSNAAEWGMAEMINEPSIMQKAVEEIDRVVGKDRLVIESDLPNLNYVKACVKEAFRLHPVAPFNLPHMSTTDTVVDGYFIPKGSHVLISRMGIGRNPSVWDKPHKFDPERHLSTNTCVDLNESDLNIISFSAGRRGCMGVDIGSAMTYMLLARL</Hsp_hseq>
+      <Hsp_midline>S PPGP +WPLIGN   +       F    + +     D+  IRL +  ++ +   R   + L +Q S FA RP        S G  ++A     E WK  RR   S          +S Q++      EA  LV      ++  RG+A    +D R        NV   + FG R+     E R     E + H E     +    A +L D +PWL++         V    R   + N  F    +D+ L    + +    P+D +D FI++ +         G   L  E + A +T++  A+ D  S A +W +      P +  +   E+D+VVG+DRL    D PNL YV A + EA R     P  +PH +T +T V GY IPK + V +++  +  +P  W  P  FDP R L  +  ++ + +   ++ FS G+R C+G ++     ++ ++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|NP_196053.2|</Hit_id>
+  <Hit_def>Cytochrome P450 superfamily protein [Arabidopsis thaliana] &gt;sp|F4JW83.1| RecName: Full=Cytochrome P450 84A4 [Arabidopsis thaliana] &gt;gb|AED90728.1| Cytochrome P450 superfamily protein [Arabidopsis thaliana] &gt;emb|CAA0400589.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_196053</Hit_accession>
+  <Hit_len>512</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>4.14188e-39</Hsp_evalue>
+      <Hsp_query-from>166</Hsp_query-from>
+      <Hsp_query-to>613</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>466</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>456</Hsp_align-len>
+      <Hsp_qseq>QRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADG---AFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMP-WLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPR-DMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQ-PNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAH</Hsp_qseq>
+      <Hsp_hseq>RRQMLLKPYPPGPKGLPVIGNILMMNQFNHRGLAKLSRIYGGLLHLRLGFSHIFVVSSPDIARQVLQVQDHVFSNRPTTIAIRYLTYGGSDLAFCNYGPFWRRMRKLYVMML---FSRKRAESWVSVDEEVHKSVRLVASNVGKPLNICKLAFSLSRDITFRAAFGSSSSTSDESRLD----EFLEII---QEFSKLFGEFNVADYVPSWLSWIDPQGINGRVEKARKSLDGFIESVIDDHLHKKKREHDNVDEETDMVDQLLAFYEEEVK--VNNSVTKINLDNIKGIIMDVMFGGTETVALAIEWVLTEILRSPENMKRVQDELTSVVGLDRWRVEDTHLEKLTFLKCILKETLRLHPPFPLLL-HETVKDTEISGYFIPKGSRVMVNTYALGRDPNSWSDPESFNPGRFLNPIAPDLKGNNFEFVPFGSGRRSCPGMQLGLYAFELAVAHLLH</Hsp_hseq>
+      <Hsp_midline>+R+  L+  PPGP   P+IGN   + Q  H   A+L+R YG +  +RLG   I V++      Q L  Q   F++RP   + R ++ GG  +AF +Y   W+  R+    M+   F+R+     V     + ++  LVA  V    +    AF   R +T  A     S+     R      EF E++   +EF +  G  ++ D +P WL +  P  +     +  +    F   ++D  L   +          DM+D  +   E++     +    +++L+N+   I D+     +T++ A++W+L    R P+   RVQ EL  VVG DR          L ++   L E +R     P+ + H T  +T + GY IPK + V VN +++  DP  W +PE+F+P RFL+      K      + F  G+R C G +L      L ++ L H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>emb|CAA0394885.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0394885</Hit_accession>
+  <Hit_len>518</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>4.87546e-39</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>470</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRA------AHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHD----DPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>IVGNLPFLDPDLHTYFTKLAQSHGPIFKLNLGSKLTVVVNTPSLAREILKDQDINFSNHDVPLTARAVTYGGLDLVWLPYGAEWRMLRKVCVLKLLSHRTLDSFYELRRKEIRERTRYLYQKGQEESPVNV---GDQVFLTMMNLT-------MNMLWRGSVKAEEMESVGTEFKEVIS---EITRLLGEPNVSDFFPWLARFD--LQGLVKKMHVCAREL-DAILDRAIEQMQLLRSRDGDDGECKDFLQHLMKLKDQEADSE---VPITVNHVKAVLVDLVVGGTDTSTNTIEFAMAELIRKPELMKRAQQELDEVVGKDNIIEESHITRLPFISAIMKETLRLYPTIPLLVPHRPSETALVGGYTIPKNTKIFINVWSIQRDPHVWEYPTEFRPERFLDKKSCDFTGTDYSYLPFGSGRRICAGIALAERMILYTLATLLHSFDWKIPEGHILDLKEKFGIVLKLKS</Hsp_hseq>
+      <Hsp_midline>++GN   +    H  F +LA+ +G +F++ LGS   VV+N      + L  Q   F++     + R V+ GG  + +  Y   W++ R+       +H  + +F+  + +  +    ++  + +E   + V    D  FL    LT       M+ +  G   + +      EF+E++S   E  R +G  ++ D  PWL  F   ++ + ++     R   + ILD+ +   + LR           F+  L   K    DS      + + +V A + D+     DT +  +++ +    R P++  R Q ELD+VVG+D +        LP++ A + E +R    +P+ +PH  +    V GY IPK+T +F+N WS+  DP  W  P  F P RFLDK            + F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K KS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>emb|CAC26936.1|</Hit_id>
+  <Hit_def>ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;emb|CAC26937.1| ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;emb|CAC26938.1| ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;emb|CAC26939.1| ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;emb|CAC26940.1| ferulate-5-hydroxylase [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAC26936</Hit_accession>
+  <Hit_len>520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>5.1776e-39</Hsp_evalue>
+      <Hsp_query-from>181</Hsp_query-from>
+      <Hsp_query-to>642</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>508</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>479</Hsp_align-len>
+      <Hsp_qseq>WPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRS-MAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSA--DGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-------GAAPRDMMDAFILSAEKKAAGDSHG--GGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR----ANPNEPAKMNFSYGLTIKPKSFKV</Hsp_qseq>
+      <Hsp_hseq>WPIIGNMLMMDQLTHRGLANLAKKYGGLCHLRMGFLHMYAVSSPEVARQVLQVQDSVFSNRPATIAISYLTYDRADMAFAHYGPFWRQMRKVC--VMKVFSRKRAES--------WASVRDEVDKMVRSVSCNVGKTINVGEQIFALTRNITYRAAFGSACEKGQDEFIRIL---QEFSKLFGAFNVADFIPYFGWIDPQGINKRLVKARNDLDGFIDDIIDEHMKKKENQNAVDDGDVVDTDMVDDLLAF-YSEEAKLVSETADLQNSIKLTRDNIKAIIMDVMFGGTETVASAIEWALTELLRSPEDLKRVQQELAEVVGLDRRVEESDIEKLTYLKCTLKETLRMHPPIPLLL-HETAEDTSIDGFFIPKKSRVMINAFAIGRDPTSWTDPDTFRPSRFLEPGVPDFKGSNFEFIPFGSGRRSCPGMQLGLYALDLAVAHILHCFTWKLPDGMKPSE-LDMNDVFGLT-APKATRL</Hsp_hseq>
+      <Hsp_midline>WP+IGN   + Q  H   A LA++YG +  +R+G   +  ++      Q L  Q S F++RPA  +   ++  R+ MAF HY   W+  R+    +M+ F  ++  S         +  R+ V  +VR  +   G  ++          N+     FG        EF  +L   +EF +  GA ++ D +P+  +  P  +     +       F + I+D+ ++  E+               D + AF  S E K   ++       +L  +N+ A I D+     +T+++A++W L    R P+   RVQ EL +VVG DR     D   L Y+   L E +R    +P+ + H T  +TS+ G+ IPK + V +N +++  DP  W +P+ F P+RFL+      K      + F  G+R C G +L    L L ++ + H   ++      P+E   MN  +GLT  PK+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gb|AAF70255.1|</Hit_id>
+  <Hit_def>cytochrome P450 CYP79A2 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>AAF70255</Hit_accession>
+  <Hit_len>523</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>5.33353e-39</Hsp_evalue>
+      <Hsp_query-from>147</Hsp_query-from>
+      <Hsp_query-to>611</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>478</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>46</Hsp_gaps>
+      <Hsp_align-len>491</Hsp_align-len>
+      <Hsp_qseq>LLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSF----ARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGR-SMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELV------ALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRY----SHDD--PEFRELLSHNEEFGRTVG---AGSLVDVMPWLQYFP-----NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTS-RVMIFSVGKRRCIGEELSKMQLFLFISIL</Hsp_qseq>
+      <Hsp_hseq>LLLLALTMKRKEKKKTMLISPTRNL-SLPPGPKSWPLIGNLPEILGRNKPVFRWIHSLMKELNTDIACIRLANTHVIPVTSPRIAREILKKQDSVFATRPLTMGTEYCSRGYLTVAVEPQGEQWKKMRRVVAS-----HVTSKKSFQMMLQKRTEEADNLVRYINNRSVKNRGNA-FVVIDLRLAVRQYSGNVARKMMFGIRHFGKGSEDGSGPGLEEI-EHVESLFTVLTHLYAFALSDYVPWLRFLDLEGHEKVVSNAMRNVSKYNDPF----VDERLMQWRNGK-MKEPQDFLDMFIIAKDTD-------GKPTLSDEEIKAQVTELMLATVDNPSNAAEWGMAEMINEPSIMQKAVEEIDRVVGKDRLVIESDLPNLNYVKACVKEAFRLHPVAPFNLPHMSTTDTVVDGYFIPKGSHVLISRMGIGRNPSVWDKPHKFDPERHLSTNTCVDLNESDLNIISFSAGRRGCMGVDIGSAMTYMLLARL</Hsp_hseq>
+      <Hsp_midline>LLLL   +      + +L    R L S PPGP +WPLIGN   +       F    + +     D+  IRL +  ++ +   R   + L +Q S FA RP        S G  ++A     E WK  RR   S          +S Q++      EA  LV      ++  RG+A    +D R        NV   + FG R+    S D   P   E+  H E     +    A +L D +PWL++         V    R   + N  F    +D+ L    + +    P+D +D FI++ +         G   L  E + A +T++  A+ D  S A +W +      P +  +   E+D+VVG+DRL    D PNL YV A + EA R     P  +PH +T +T V GY IPK + V +++  +  +P  W  P  FDP R L  +  ++ + +   ++ FS G+R C+G ++     ++ ++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|NP_568153.2|</Hit_id>
+  <Hit_def>phenylalanine N-monooxygenase-like protein [Arabidopsis thaliana] &gt;sp|Q9FLC8.1| RecName: Full=Phenylalanine N-monooxygenase; AltName: Full=Cytochrome P450 79A2; AltName: Full=Phenylalanine N-hydroxylase [Arabidopsis thaliana] &gt;gb|ANM70027.1| phenylalanine N-monooxygenase-like protein [Arabidopsis thaliana] &gt;gb|OAO95888.1| CYP79A2 [Arabidopsis thaliana] &gt;emb|CAA0400787.1| unnamed protein product [Arabidopsis thaliana] &gt;emb|CAD5330873.1| unnamed protein product [Arabidopsis thaliana] &gt;dbj|BAB09969.1| cytochrome P450 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_568153</Hit_accession>
+  <Hit_len>529</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>5.97533e-39</Hsp_evalue>
+      <Hsp_query-from>147</Hsp_query-from>
+      <Hsp_query-to>611</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>484</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>46</Hsp_gaps>
+      <Hsp_align-len>491</Hsp_align-len>
+      <Hsp_qseq>LLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSF----ARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGR-SMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELV------ALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRY----SHDD--PEFRELLSHNEEFGRTVG---AGSLVDVMPWLQYFP-----NPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTS-RVMIFSVGKRRCIGEELSKMQLFLFISIL</Hsp_qseq>
+      <Hsp_hseq>LLLLALTMKRKEKKKTMLISPTRNL-SLPPGPKSWPLIGNLPEILGRNKPVFRWIHSLMKELNTDIACIRLANTHVIPVTSPRIAREILKKQDSVFATRPLTMGTEYCSRGYLTVAVEPQGEQWKKMRRVVAS-----HVTSKKSFQMMLQKRTEEADNLVRYINNRSVKNRGNA-FVVIDLRLAVRQYSGNVARKMMFGIRHFGKGSEDGSGPGLEEI-EHVESLFTVLTHLYAFALSDYVPWLRFLDLEGHEKVVSNAMRNVSKYNDPF----VDERLMQWRNGK-MKEPQDFLDMFIIAKDTD-------GKPTLSDEEIKAQVTELMLATVDNPSNAAEWGMAEMINEPSIMQKAVEEIDRVVGKDRLVIESDLPNLNYVKACVKEAFRLHPVAPFNLPHMSTTDTVVDGYFIPKGSHVLISRMGIGRNPSVWDKPHKFDPERHLSTNTCVDLNESDLNIISFSAGRRGCMGVDIGSAMTYMLLARL</Hsp_hseq>
+      <Hsp_midline>LLLL   +      + +L    R L S PPGP +WPLIGN   +       F    + +     D+  IRL +  ++ +   R   + L +Q S FA RP        S G  ++A     E WK  RR   S          +S Q++      EA  LV      ++  RG+A    +D R        NV   + FG R+    S D   P   E+  H E     +    A +L D +PWL++         V    R   + N  F    +D+ L    + +    P+D +D FI++ +         G   L  E + A +T++  A+ D  S A +W +      P +  +   E+D+VVG+DRL    D PNL YV A + EA R     P  +PH +T +T V GY IPK + V +++  +  +P  W  P  FDP R L  +  ++ + +   ++ FS G+R C+G ++     ++ ++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|NP_195345.1|</Hit_id>
+  <Hit_def>ferulic acid 5-hydroxylase 1 [Arabidopsis thaliana] &gt;sp|Q42600.1| RecName: Full=Cytochrome P450 84A1; AltName: Full=Ferulate-5-hydroxylase; Short=F5H [Arabidopsis thaliana] &gt;gb|AAC49389.1| ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;gb|AAD11580.1| ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;gb|AEE86636.1| ferulic acid 5-hydroxylase 1 [Arabidopsis thaliana] &gt;gb|OAO97355.1| FAH1 [Arabidopsis thaliana] &gt;emb|CAA0397668.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_195345</Hit_accession>
+  <Hit_len>520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.606</Hsp_bit-score>
+      <Hsp_score>392</Hsp_score>
+      <Hsp_evalue>6.70947e-39</Hsp_evalue>
+      <Hsp_query-from>181</Hsp_query-from>
+      <Hsp_query-to>642</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>508</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>WPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRS-MAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTV-----VAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-------GAAPRDMMDAFILSAEKKAAGDSHG--GGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR----ANPNEPAKMNFSYGLTIKPKSFKV</Hsp_qseq>
+      <Hsp_hseq>WPIIGNMLMMDQLTHRGLANLAKKYGGLCHLRMGFLHMYAVSSPEVARQVLQVQDSVFSNRPATIAISYLTYDRADMAFAHYGPFWRQMRKVC--VMKVFSRKRAES--------WASVRDEVDKMVRSVSCNV---GKPINVGEQIFALTRNITYRAAFGSACEKGQDEFIRIL---QEFSKLFGAFNVADFIPYFGWIDPQGINKRLVKARNDLDGFIDDIIDEHMKKKENQNAVDDGDVVDTDMVDDLLAF-YSEEAKLVSETADLQNSIKLTRDNIKAIIMDVMFGGTETVASAIEWALTELLRSPEDLKRVQQELAEVVGLDRRVEESDIEKLTYLKCTLKETLRMHPPIPLLL-HETAEDTSIDGFFIPKKSRVMINAFAIGRDPTSWTDPDTFRPSRFLEPGVPDFKGSNFEFIPFGSGRRSCPGMQLGLYALDLAVAHILHCFTWKLPDGMKPSE-LDMNDVFGLT-APKATRL</Hsp_hseq>
+      <Hsp_midline>WP+IGN   + Q  H   A LA++YG +  +R+G   +  ++      Q L  Q S F++RPA  +   ++  R+ MAF HY   W+  R+    +M+ F  ++  S         +  R+ V  +VR  +       +P+ V         N+     FG        EF  +L   +EF +  GA ++ D +P+  +  P  +     +       F + I+D+ ++  E+               D + AF  S E K   ++       +L  +N+ A I D+     +T+++A++W L    R P+   RVQ EL +VVG DR     D   L Y+   L E +R    +P+ + H T  +TS+ G+ IPK + V +N +++  DP  W +P+ F P+RFL+      K      + F  G+R C G +L    L L ++ + H   ++      P+E   MN  +GLT  PK+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gb|OAP07869.1|</Hit_id>
+  <Hit_def>CYP76C2 [Arabidopsis thaliana] &gt;emb|VYS55625.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAP07869</Hit_accession>
+  <Hit_len>512</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>7.70758e-39</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>472</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMA--FGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPE----FRELLSHNEEFGRTVGAGSLVDVMPWLQYFP--NPVRTVFREFEQLNRNFSNFI----LDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>IIGNIHLVGRNPHHSFADLSKTYGPIMSLKFGSLNTVVVTSPEAAREVLRTYDQILSSRTSTNSIRSINHDKVSVVWLPPSSSRWRLLRKLSATQL--FSPQRIEATKTLREN---KVKELVSFMSESSEREEAVDISRATFITALNIISNILFSVDLGNYDSNKSGGFQDTVIGVME---AVGNPDAANFFPFLGFLDLQGNRKTLKACSERLFKVFRGFIDAKLAEKSLRDTNS--KDVRERDFVDVLLDLTE--------GDEAELNTNDIVHLLLDLFGAGTDTNSSTVEWAMAELLRNPETMVKAQAEIDCVIGQKGVVEESDISTLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVFVNVWAIGRDPNVWENSSRFKPERFLGKD----IDLRGRDYELTPFGAGRRICPGLPLAVKTVPLMLASLLYSFDWKL-PNGVGSEDLDMDETFGLTL</Hsp_hseq>
+      <Hsp_midline>+IGN   VG+  H SFA L++ YG +  ++ GS   VV+    A  + L       + R +  S R ++  +         S  W++ R+ + + +  F  ++  + + L  +   + +ELV+ +   S     +D    T +   N++S + F     + D      F++ +    E    VG     +  P+L +       +T+    E+L + F  FI     +K LR   S       RD +D  +   E        G  A L+  ++   + D+FGA  DT S+ ++W +    R P+   + QAE+D V+G+  +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT VFVN W++  DP  W N   F P RFL KD     DL  R   +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>emb|CAC26932.1|</Hit_id>
+  <Hit_def>ferulate-5-hydroxylase [Arabidopsis thaliana] &gt;emb|CAC26933.1| ferulate-5-hydroxylase [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAC26932</Hit_accession>
+  <Hit_len>520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>8.30105e-39</Hsp_evalue>
+      <Hsp_query-from>181</Hsp_query-from>
+      <Hsp_query-to>642</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>508</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>WPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRS-MAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTV-----VAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-------GAAPRDMMDAFILSAEKKAAGDSHG--GGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR----ANPNEPAKMNFSYGLTIKPKSFKV</Hsp_qseq>
+      <Hsp_hseq>WPIIGNMLMMDQLTHRGLANLAKKYGGLCHLRMGFLHMYAVSSPEVARQVLQVQDSVFSNRPATIAISYLTYDRADMAFAHYGPFWRQMRKVC--VMKVFSRKRAES--------WASVRDEVDKMVRSVSCNV---GKPINVGEQIFALTRNITYRAAFGSACEKGQDEFIRIL---QEFSKLFGAFNVADFIPYFGWIDPQGINKRLVKARNDLDGFIDDIIDEHMKKKENQNAVDDGDVVDTDMVDDLLAF-YSEEAKLVSETADLQNSIKLTRDNIKAIIMDVMFGGTETVASAIEWALTELLRSPEDLKRVQQELAEVVGLDRRVEESDIEKLTYLKCTLKETLRMHPPIPLLL-HETAEDTSIDGFFIPKKSRVMINAFAIGRDPTSWTDPDTFRPSRFLEPGVPDFKGSNFEFIPFGSGRRSCPGMQLGLYALDLAVAHILHCFTWKLPDGMKPSE-LDMNDVFGLT-APKATRL</Hsp_hseq>
+      <Hsp_midline>WP+IGN   + Q  H   A LA++YG +  +R+G   +  ++      Q L  Q S F++RPA  +   ++  R+ MAF HY   W+  R+    +M+ F  ++  S         +  R+ V  +VR  +       +P+ V         N+     FG        EF  +L   +EF +  GA ++ D +P+  +  P  +     +       F + I+D+ ++  E+               D + AF  S E K   ++       +L  +N+ A I D+     +T+++A++W L    R P+   RVQ EL +VVG DR     D   L Y+   L E +R    +P+ + H T  +TS+ G+ IPK + V +N +++  DP  W +P+ F P+RFL+      K      + F  G+R C G +L    L L ++ + H   ++      P+E   MN  +GLT  PK+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>emb|CAD5330789.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAD5330789</Hit_accession>
+  <Hit_len>486</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.451</Hsp_bit-score>
+      <Hsp_score>389</Hsp_score>
+      <Hsp_evalue>9.24389e-39</Hsp_evalue>
+      <Hsp_query-from>171</Hsp_query-from>
+      <Hsp_query-to>613</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>440</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>203</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>451</Hsp_align-len>
+      <Hsp_qseq>LRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADG---AFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMP-WLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPR-DMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQ-PNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAH</Hsp_qseq>
+      <Hsp_hseq>LKPYPPGPKGLPVIGNILMMNQFNHRGLAKLSRIYGGLLHLRLGFSHIFVVSSPDIARQVLQVQDHVFSNRPTTIAIRYLTYGGSDLAFCNYGPFWRRMRKLYVMML---FSRKRAESWVSVDEEVHKSVRLVASNVGKPLNICKLAFSLSRDITFRAAFGSSSSTSDESRLD----EFLEII---QEFSKLFGEFNVADYVPSWLSWIDPQGINGRLEKARKSLDGFIESVIDDHLHKKKREHDNVDEETDMVDQLLAFYEEEVK--VNNSVTKINLDNIKGIIMDVMFGGTETVALAIEWVLTEILRSPENMKRVQDELTSVVGLDRWRVEDTHLEKLTFLKCILKETLRLHPPFPLLL-HETVKDTEISGYFIPKGSRVMVNTYALGRDPNSWSDPESFNPGRFLNPIAPDLKGNNFEFVPFGSGRRSCPGMQLGLYAFELAVAHLLH</Hsp_hseq>
+      <Hsp_midline>L+  PPGP   P+IGN   + Q  H   A+L+R YG +  +RLG   I V++      Q L  Q   F++RP   + R ++ GG  +AF +Y   W+  R+    M+   F+R+     V     + ++  LVA  V    +    AF   R +T  A     S+     R      EF E++   +EF +  G  ++ D +P WL +  P  +     +  +    F   ++D  L   +          DM+D  +   E++     +    +++L+N+   I D+     +T++ A++W+L    R P+   RVQ EL  VVG DR          L ++   L E +R     P+ + H T  +T + GY IPK + V VN +++  DP  W +PE+F+P RFL+      K      + F  G+R C G +L      L ++ L H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>emb|VYS65832.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>VYS65832</Hit_accession>
+  <Hit_len>486</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.066</Hsp_bit-score>
+      <Hsp_score>388</Hsp_score>
+      <Hsp_evalue>1.19959e-38</Hsp_evalue>
+      <Hsp_query-from>171</Hsp_query-from>
+      <Hsp_query-to>613</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>440</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>203</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>451</Hsp_align-len>
+      <Hsp_qseq>LRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADG---AFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMP-WLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPR-DMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQ-PNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAH</Hsp_qseq>
+      <Hsp_hseq>LKPYPPGPKGLPVIGNILMMNQFNHRGLAKLSRIYGGLLHLRLGFSHIFVVSSPDIARQVLQVQDHVFSNRPTTIAIRYLTYGGSDLAFCNYGPFWRRMRKLYVMML---FSRKRAESWVSVDEEVHKSVRLVASNVGKPLNICKLAFSLSRDITFRAAFGSSSSTSDESRLD----EFLEII---QEFSKLFGEFNVADYVPSWLSWIDPQGINGRVEKARKSLDGFIESVIDDHLHKKKREHDNVDEETDMVDQLLAFYEEEVK--VNNSVTKINLDNIKGIIMDVMFGGTETVALAIEWVLTEILRSPENMKRVQDELTSVVGLDRWRVEDTHLEKLTFLKCILKETLRLHPPFPLLL-HETVKDTEISGYFIPKGSRVMVNTYALGRDPNSWSDPESFNPGRFLNPIAPDLKGNNFEFVPFGSGRRSCPGMQLGLYAFELAVAHLLH</Hsp_hseq>
+      <Hsp_midline>L+  PPGP   P+IGN   + Q  H   A+L+R YG +  +RLG   I V++      Q L  Q   F++RP   + R ++ GG  +AF +Y   W+  R+    M+   F+R+     V     + ++  LVA  V    +    AF   R +T  A     S+     R      EF E++   +EF +  G  ++ D +P WL +  P  +     +  +    F   ++D  L   +          DM+D  +   E++     +    +++L+N+   I D+     +T++ A++W+L    R P+   RVQ EL  VVG DR          L ++   L E +R     P+ + H T  +T + GY IPK + V VN +++  DP  W +PE+F+P RFL+      K      + F  G+R C G +L      L ++ L H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>emb|CAD5330104.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAD5330104</Hit_accession>
+  <Hit_len>520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.836</Hsp_bit-score>
+      <Hsp_score>390</Hsp_score>
+      <Hsp_evalue>1.24723e-38</Hsp_evalue>
+      <Hsp_query-from>181</Hsp_query-from>
+      <Hsp_query-to>642</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>508</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>WPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRS-MAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTV-----VAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYF-PNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRP-------GAAPRDMMDAFILSAEKKAAGDSHG--GGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR----ANPNEPAKMNFSYGLTIKPKSFKV</Hsp_qseq>
+      <Hsp_hseq>WPIIGNMLMMDQLTHRGLANLAKKYGGLCHLRMGFLHMYAVSSPEVARQVLQVQDSVFSNRPATIAISYLTYDRADMAFAHYGPFWRQMRKVC--VMKVFSRKRAES--------WASVRDEVDKMVRSVSCNV---GKPINVGEQIFALTRNITYRAAFGSACEKGQDEFIRIL---QEFSKLFGAFNVADFIPYFGWIDPQGINKRLVKARNDLDGFIDDIIDEHMKKKENQNAVDDGDVVDTDMVDDLLAF-YSEEAKLVSETADLQNSIKLTRDNIKAIIMDVMFGGTETVASAIEWALTELLRSPEDLKRVQQELAEVVGLDRRVEECDIEKLTYLKCTLKETLRMHPPIPLLL-HETAEDTSIDGFFIPKKSRVMINAFAIGRDPTSWTDPDTFRPSRFLEPGVPDFKGSNFEFIPFGSGRRSCPGMQLGLYALDLAVAHILHCFTWKLPDGMKPSE-LDMNDVFGLT-APKATRL</Hsp_hseq>
+      <Hsp_midline>WP+IGN   + Q  H   A LA++YG +  +R+G   +  ++      Q L  Q S F++RPA  +   ++  R+ MAF HY   W+  R+    +M+ F  ++  S         +  R+ V  +VR  +       +P+ V         N+     FG        EF  +L   +EF +  GA ++ D +P+  +  P  +     +       F + I+D+ ++  E+               D + AF  S E K   ++       +L  +N+ A I D+     +T+++A++W L    R P+   RVQ EL +VVG DR     D   L Y+   L E +R    +P+ + H T  +TS+ G+ IPK + V +N +++  DP  W +P+ F P+RFL+      K      + F  G+R C G +L    L L ++ + H   ++      P+E   MN  +GLT  PK+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|NP_182081.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 76, subfamily C, polypeptide 2 [Arabidopsis thaliana] &gt;sp|O64637.1| RecName: Full=Cytochrome P450 76C2; AltName: Full=Protein YELLOW-LEAF-SPECIFIC GENE 6 [Arabidopsis thaliana] &gt;gb|AAC06158.1| putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AAL32678.1| putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AAM47979.1| putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AEC10572.1| cytochrome P450, family 76, subfamily C, polypeptide 2 [Arabidopsis thaliana] &gt;emb|CAA0377087.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_182081</Hit_accession>
+  <Hit_len>512</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.066</Hsp_bit-score>
+      <Hsp_score>388</Hsp_score>
+      <Hsp_evalue>1.69411e-38</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>470</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMA--FGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFG--RTVGAGSLVDVMPWLQYFP--NPVRTVFREFEQLNRNFSNFI----LDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>IIGNIHLVGRNPHHSFADLSKTYGPIMSLKFGSLNTVVVTSPEAAREVLRTYDQILSSRTPTNSIRSINHDKVSVVWLPPSSSRWRLLRKLSATQL--FSPQRIEATKTLREN---KVKELVSFMSESSEREEAVDISRATFITALNIISNILFSVDLGNYDSN-KSGVFQDTVIGVMEAVGNPDAANFFPFLGFLDLQGNRKTLKACSERLFKVFRGFIDAKLAEKSLRDTNS--KDVRERDFVDVLLDLTE--------GDEAELNTNDIVHLLLDLFGAGTDTNSSTVEWAMAELLRNPETMVKAQAEIDCVIGQKGVVEESDISALPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFMVPKDTQVFVNVWAIGRDPNVWENSSRFKPERFLGKD----IDLRGRDYELTPFGAGRRICPGLPLAVKTVPLMLASLLYSFDWKL-PNGVGSEDLDMDETFGLTL</Hsp_hseq>
+      <Hsp_midline>+IGN   VG+  H SFA L++ YG +  ++ GS   VV+    A  + L       + R    S R ++  +         S  W++ R+ + + +  F  ++  + + L  +   + +ELV+ +   S     +D    T +   N++S + F     + D   +  +  +   G    VG     +  P+L +       +T+    E+L + F  FI     +K LR   S       RD +D  +   E        G  A L+  ++   + D+FGA  DT S+ ++W +    R P+   + QAE+D V+G+  +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT VFVN W++  DP  W N   F P RFL KD     DL  R   +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>emb|CAA0264650.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0264650</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>153.295</Hsp_bit-score>
+      <Hsp_score>386</Hsp_score>
+      <Hsp_evalue>3.35243e-38</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>491</Hsp_align-len>
+      <Hsp_qseq>RQRR---RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNF-FTR--QPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPW-----LQYFPNPVRTVFREFEQLNRNFSNF-ILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>RSRRSPTQVLSKSPPGPPRLPIIGNIHLVGKNPHHSFTDLSKTYGPVMSLKLGYLNSVVITSRDAAREVLKAHDQILSGR------YITQATKSNNHHEFSVGWIHPSSPRFRKLRKVTFTQLFSPQRIEATKALRMKKVQELVNFLSESSERGEAVDISRASFVTALNIISNILFSVNLGSYDSKNSSAFQEMVIG---YMESIGNPDVSNFFPFMRLLDLQGNSKKMKEYSGKLLQVFRGFYDARILENSSRIDEK---DVSSRDFLDALI--------DLQQGDESEINIDEIEHLLLDMFLAGTDTNSSTVEWAMTELLGNPKTMTKVQDEINRVIRQNGDVQESHISKLPYLQAVIKETFRLHPAAPFLLPRKAERDVDILGFHVPKDSHVLVNVWAIGRDPNVWENPTQFEPERFLGKD-IDVKGTNYELTPFGAGRRICPGLPLALKTVHLMLASLLYTFEWKL-PNGVGSEDLDMGETFGLTM</Hsp_hseq>
+      <Hsp_midline>R RR   + L  +PPGP   P+IGN   VG+  H SF  L++ YG V  ++LG    VV+    A  + L       + R       +    +S     +S  W          +R   FT+   P+  +  +   + + +ELV  L   S  G  +D    + V   N++S + F    G   S +   F+E++     +  ++G   + +  P+     LQ     ++    +  Q+ R F +  IL+   R  E      + RD +DA I            G  + ++++ +   + D+F A  DT S+ ++W +      P   T+VQ E+++V+ ++          LPY+ A + E  R     P  +P     +  +LG+H+PKD+ V VN W++  DP  W NP  F+P RFL KD +  K     +  F  G+R C G  L+   + L ++ L +  +++  PN    E   M  ++GLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>emb|VYS47914.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>VYS47914</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>151.754</Hsp_bit-score>
+      <Hsp_score>382</Hsp_score>
+      <Hsp_evalue>1.02873e-37</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>634</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>483</Hsp_align-len>
+      <Hsp_qseq>RQRR---RQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNF-FTR--QPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCF----GCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFP-NPVRTVFREFE-QLNRNFSNFILDKFLRHCESL-RPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLT</Hsp_qseq>
+      <Hsp_hseq>RSRRSPTQVLSKSPPGPPRLPIIGNIHLVGKNPHHSFTDLSKTYGPVMSLKLGYLNSVVITSRDAAREVLKAHDQILSGR------YITQATKSNNHHEFSVGWIHPSSPRFRKLRKVTFTQLFSPQRIEATKALRMKKVQELVNFLSESSERGEAVDISRASFVTALNIISNILFSVNLGSYDSKNSSAFQEMVIG---YMESIGNPDVSNFFPFMRLLDLQGNSKKMKEYSGKLLQVFRGFYDARILENSSRIDEKDVSSRDFLDALI--------DIQQGDESEINIDEIEHLLLDMFLAGTDTNSSTVEWAMTELLGNPKTMTKVQDEINRVIRQNGDVQESHISKLPYLQAVIKETFRLHPAAPFLLPRKAERDVDILGFHVPKDSHVLVNVWAIGRDPNVWENPTQFEPERFLGKDIDV-KGTNYELTPFGAGRRICPGLPLALKTVHLMLASLLYTFEWKL-PNGVGSEDLDMGET</Hsp_hseq>
+      <Hsp_midline>R RR   + L  +PPGP   P+IGN   VG+  H SF  L++ YG V  ++LG    VV+    A  + L       + R       +    +S     +S  W          +R   FT+   P+  +  +   + + +ELV  L   S  G  +D    + V   N++S + F    G   S +   F+E++     +  ++G   + +  P+++           +E+  +L + F  F   + L +   +     + RD +DA I            G  + ++++ +   + D+F A  DT S+ ++W +      P   T+VQ E+++V+ ++          LPY+ A + E  R     P  +P     +  +LG+H+PKD+ V VN W++  DP  W NP  F+P RFL KD  + K     +  F  G+R C G  L+   + L ++ L +  +++  PN     +   G T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>emb|CAA0383730.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0383730</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.984</Hsp_bit-score>
+      <Hsp_score>380</Hsp_score>
+      <Hsp_evalue>1.54269e-37</Hsp_evalue>
+      <Hsp_query-from>148</Hsp_query-from>
+      <Hsp_query-to>596</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>446</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>204</Hsp_positive>
+      <Hsp_gaps>54</Hsp_gaps>
+      <Hsp_align-len>471</Hsp_align-len>
+      <Hsp_qseq>LLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGG-RSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARE---LVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSH----DDPEFRELLSHNE---------EFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHC--ESLRPGAAP--RDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMG-DQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIG</Hsp_qseq>
+      <Hsp_hseq>LFLITFVSLTIVGCKI----KRSIWNLPPSPPKLPVIGNLHQVGELPHRSFRRLAERTGHVMLLHLGFVPVTVISSREAAEEVLRTHDLDCCSRPNLVGSRLISRGFKDLNFTPYGEEWKERRR--------FLVGELFCSKKLQSFIYIKEVECNFLVKKLSESAVDQSPVDLSKTLFWLAASILFRVAFGQSFHESEFTDTDKIDELVFETETAQASFTCSDFFPIAGLGWLVD---WISG----------QHKRLNDVF--LKLDALLQHVIDDHSNPGRSKDHKDIVDVMLDVMHKQGKDDS----LRLTIDHIKGLLTNIIIAGIDTGALTMIWTMTELARNPEIMKKVQGEIRDRLGNNRERITKEDLDKVPFLNLVIKETFRLHPVAPLLLPRETMAHVKVQGYDIPPKRRILVNAWAIGRDPKLWTDPEEFKPERFIDS-PVDYRGQHFELLPFGSGRRICPG</Hsp_hseq>
+      <Hsp_midline>L L++ ++   VG ++    +R + + PP P   P+IGN   VG+  H SF RLA R G V  + LG  P+ V++   A  + L         RP     R++S G + + F  Y E WK +RR        F   +    + L+  +  +  E   LV  L   + D + +D         A+++  V FG  +      D  +  EL+   E         +F    G G LVD   W+            + ++LN  F    LD  L+H   +   PG +   +D++D  +    K+   DS     RL ++++   +T+I  A  DT +  + W +    R P++  +VQ E+   +G +R      D   +P++   + E  R     P+ +P  T A+  V GY IP    + VN W++  DP  W +PE F P RF+D   +  +     ++ F  G+R C G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|NP_189247.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 71, subfamily B, polypeptide 17 [Arabidopsis thaliana] &gt;sp|Q9LTM6.1| RecName: Full=Cytochrome P450 71B17 [Arabidopsis thaliana] &gt;gb|AEE77128.1| cytochrome P450, family 71, subfamily B, polypeptide 17 [Arabidopsis thaliana] &gt;dbj|BAB02436.1| cytochrome P450 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_189247</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.984</Hsp_bit-score>
+      <Hsp_score>380</Hsp_score>
+      <Hsp_evalue>1.61584e-37</Hsp_evalue>
+      <Hsp_query-from>148</Hsp_query-from>
+      <Hsp_query-to>596</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>446</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>204</Hsp_positive>
+      <Hsp_gaps>54</Hsp_gaps>
+      <Hsp_align-len>471</Hsp_align-len>
+      <Hsp_qseq>LLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGG-RSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARE---LVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSH----DDPEFRELLSHNE---------EFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHC--ESLRPGAAP--RDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMG-DQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIG</Hsp_qseq>
+      <Hsp_hseq>LFLITFVSLTIVGCKI----KRSIWNLPPSPPKLPVIGNLHQVGELPHRSFRRLAERTGHVMLLHLGFVPVTVISSREAAEEVLRTHDLDCCSRPNLVGSRLISRGFKDLNFTPYGEEWKERRR--------FLVGELFCSKKLQSFIYIKEVECNFLVKKLSESAVDQSPVDLSKTLFWLAASILFRVAFGQSFHESEFTDTDKIDELVFETETAQGSFTCSDFFPIAGLGWLVD---WISG----------QHKRLNDVF--LKLDALLQHVIDDHSNPGRSKDHKDIVDVMLDVMHKQGKDDS----LRLTIDHIKGLLTNIIIAGIDTGALTMIWTMTELARNPEIMKKVQGEIRDRLGNNRERITKEDLDKVPFLNLVIKETFRLHPVAPLLLPRETMAHVKVQGYDIPPKRRILVNAWAIGRDPKLWTDPEEFKPERFIDS-PVDYRGQHFELLPFGSGRRICPG</Hsp_hseq>
+      <Hsp_midline>L L++ ++   VG ++    +R + + PP P   P+IGN   VG+  H SF RLA R G V  + LG  P+ V++   A  + L         RP     R++S G + + F  Y E WK +RR        F   +    + L+  +  +  E   LV  L   + D + +D         A+++  V FG  +      D  +  EL+   E         +F    G G LVD   W+            + ++LN  F    LD  L+H   +   PG +   +D++D  +    K+   DS     RL ++++   +T+I  A  DT +  + W +    R P++  +VQ E+   +G +R      D   +P++   + E  R     P+ +P  T A+  V GY IP    + VN W++  DP  W +PE F P RF+D   +  +     ++ F  G+R C G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>emb|CAD5321466.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAD5321466</Hit_accession>
+  <Hit_len>786</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>1.62971e-37</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>321</Hsp_hit-from>
+      <Hsp_hit-to>769</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>472</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMA--FGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPE----FRELLSHNEEFGRTVGAGSLVDVMPWLQYFP--NPVRTVFREFEQLNRNFSNFI----LDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSR---VMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN----EPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>IIGNIHLVGRNPHHSFADLSKTYGPIMSLKFGSLNTVVVTSPEAAREVLRTYDQILSSRTSTNSIRSINHDKVSVVWLPPSSSRWRLLRKLSATQL--FSPQRIEATKTLREN---KVKELVSFMSESSEREEAVDISRATFITALNIISNILFSVDLGNYDSNKSGGFQDTVIGVME---AVGNPDAANFFPFLGFLDLQGNRKTLKACSERLFKVFRGFIDAKLAEKSLRDTNS--KDVRERDFVDVLLDLTE--------GDEAELNTNDIVHLLLDLFGAGTDTNSSTVEWAMAELLRNPETMVKAQAEIDCVIGQKGVVEESDISTLPYLQAVVKETFRLHPAAPLLVPRKAESDVEVLGFVVPKDTQVFVNVWAIGRDPNVWENSSRFKPERFLGKD----IDLRGRDYELTPFGAGRRICPGLPLAVKTVPLMLASLLYSFDWKL-PNGVGSEDLDMDETFGLTL</Hsp_hseq>
+      <Hsp_midline>+IGN   VG+  H SFA L++ YG +  ++ GS   VV+    A  + L       + R +  S R ++  +         S  W++ R+ + + +  F  ++  + + L  +   + +ELV+ +   S     +D    T +   N++S + F     + D      F++ +    E    VG     +  P+L +       +T+    E+L + F  FI     +K LR   S       RD +D  +   E        G  A L+  ++   + D+FGA  DT S+ ++W +    R P+   + QAE+D V+G+  +    D   LPY+ A + E  R     P+ +P    ++  VLG+ +PKDT VFVN W++  DP  W N   F P RFL KD     DL  R   +  F  G+R C G  L+   + L ++ L +  D++  PN    E   M+ ++GLT+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>37.3502</Hsp_bit-score>
+      <Hsp_score>85</Hsp_score>
+      <Hsp_evalue>0.414837</Hsp_evalue>
+      <Hsp_query-from>181</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>296</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>31</Hsp_gaps>
+      <Hsp_align-len>266</Hsp_align-len>
+      <Hsp_qseq>WPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHY---------SEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDP-----EFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFI---LDKFLRHCESLRPGAAPRDMMDAFILSAEKKAA</Hsp_qseq>
+      <Hsp_hseq>LPLVGNIFQLGFNPHRSLAAFSKTYGPIMSLKLGRLTAVVISSPEAAKEALRTHDHVMSARTFNDALR--------AFDHHKHSIVWIPPSARWRFLKKTITK-----YLLSPQNLDAIQSLRMRKVEVLVSLVNEFRERGEAIDLARASFVTSFNIISNALFSVDLATYDSNSSSYEFHNTVVHLTEIAGIPNVGDYFQYMRFLDLQGTRKKAVLC-IEKLFRVFQEFIDARLAKRFSRTEKEPKEASSIDMLDSLLDLTQQNEA</Hsp_hseq>
+      <Hsp_midline> PL+GN   +G   H S A  ++ YG +  ++LG    VV++   A  +AL       + R    + R        AF H+         S  W+  ++         +   P++   ++   + +   LV+L+      G  +D    + V   N++S   F    +  D      EF   + H  E       G     M +L       + V    E+L R F  FI   L K     E     A+  DM+D+ +   ++  A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>emb|VYS62402.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>VYS62402</Hit_accession>
+  <Hit_len>518</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.984</Hsp_bit-score>
+      <Hsp_score>380</Hsp_score>
+      <Hsp_evalue>1.9712e-37</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>468</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHV---LSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>IVGNLPFLDPDLHIYFTKLAQSHGPIFKLNLGSKLTVVVNTPSLAREILKDQDINFSNHDVPLTARAVTYGGLDLVWLPYGAEWR--------MLRKVCVLKLLSRRTLDSFYELRRKEIRERTRYLYQKGQEESPVNVGDQVFLTMMNLTMNMLWGGSVKAEEMESVGTEFKEVIS---EITRLLGEPNVSDFFPRLARFD--LQGLVKKMHVCAREL-DAILDRAIEQLQLLRSRDGDDGECKDFLQHLMKLKDQEADSE---VPITVNHVKAVLVDLVVGGTDTSTNTIEFAMAELIRKPELMKRAQQELDEVVGKDNIIEESHITRLPFISAIMKETLRLYPTIPLLVPHRPSETALVGGYTIPKNTKIFINVWSIQRDPNVWEYPTEFRPERFLDKKSCDFTGTDYSYLPFGSGRRICAGIALAERMILYTLATLLHSFDWKIPEGHILDLKEKFGIVLKLKS</Hsp_hseq>
+      <Hsp_midline>++GN   +    H+ F +LA+ +G +F++ LGS   VV+N      + L  Q   F++     + R V+ GG  + +  Y   W+        M+R     +  SR+ L+        E RE    L +   + + ++      + + N+   + +G     ++      EF+E++S   E  R +G  ++ D  P L  F   ++ + ++     R   + ILD+ +   + LR           F+  L   K    DS      + + +V A + D+     DT +  +++ +    R P++  R Q ELD+VVG+D +        LP++ A + E +R    +P+ +PH  +    V GY IPK+T +F+N WS+  DP  W  P  F P RFLDK            + F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K KS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|OAP08713.1|</Hit_id>
+  <Hit_def>EOD3 [Arabidopsis thaliana] &gt;emb|CAA0377337.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAP08713</Hit_accession>
+  <Hit_len>530</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.984</Hsp_bit-score>
+      <Hsp_score>380</Hsp_score>
+      <Hsp_evalue>2.64377e-37</Hsp_evalue>
+      <Hsp_query-from>176</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>72</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>46</Hsp_gaps>
+      <Hsp_align-len>474</Hsp_align-len>
+      <Hsp_qseq>PGPFAWPLIGNAAAVGQA-AHLSFARLARRYGD--VFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYS--HDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFR---EFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVP-VTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDG-----LINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>PGPRGFPLVGSMSLMSSTLAHRRIADAAEKFGAKRLMAFSLGETRVIVTCNPDVAKEIL--NSPVFADRPVKESAYSLMFNRAIGFAPHGVYWRTLRRIASNHL--FSTKQIR-RAETQRRVISS--QMVEFLEKQSSNEPCFVRELLKTASLNNMMCSV-FGQEYELEKNHVELREMV---EEGYDLLGTLNWTDHLPWLSEF-DPQRIRSRCSTLVPKVNRFVSRIISEH--RN----QTGDLPRDFVDVLL----------SLHGSDKLSDPDIIAVLWEMIFRGTDTVAVLIEWILARMVLHPDMQSTVQNELDQVVGKSRAVDESDLASLPYLTAVVKEVLRLHPPGPLLSWARLAITDTIVDGRLVPAGTTAMVNMWAVSHDPHVWVDPLEFKPERFVAKEGEVEFSVLGSDL--RLAPFGSGRRICPGKNLGFTTVMFWTAMMLHE--FEWGPSDGNGVDLSEKLRL</Hsp_hseq>
+      <Hsp_midline>PGP  +PL+G+ + +    AH   A  A ++G   +    LG   ++V        + L      FADRP   S   +   R++ F  +  +W+  RR A + +  F T+Q R R   +  V+S   ++V  L + S++        L   ++ N+M +V FG  Y    +  E RE++   EE    +G  +  D +PWL  F +P R   R      ++NR  S  I +   R+    + G  PRD +D  +          S  G  +L   ++ A + ++     DT++  ++W+L     +PD+Q+ VQ ELDQVVG+ R     D  +LPY+ A + E +R     P ++       +T V G  +P  T   VN W+V+HDP  W +P  F P RF+ K+G     ++  DL  R+  F  G+R C G+ L    +  + +++ H+  F   P++   ++ S  L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>emb|CAA0394883.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0394883</Hit_accession>
+  <Hit_len>520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.599</Hsp_bit-score>
+      <Hsp_score>379</Hsp_score>
+      <Hsp_evalue>2.75735e-37</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>53</Hsp_hit-from>
+      <Hsp_hit-to>503</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>470</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHV---LSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAP----RDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>IVGNLPFLDPDLHTYFTKLAQSHGPIFKLNLGSKLTVVVNSPSLAREILKDQDINFSNHDVPLTARAVTYGGLDLVWLPYGAEWRMLRKVCAAKLF--------SRKTLDSFYELRRKEIRERTRCLYQKGLEKSPVNVGEQLFLTMMNLMMNMLWGGSVKAEDMESVGTEFKEVIS---EITRLLGVPNVSDFFPMLARFD--LQGLVKKMHLYARDL-DAILDRAIEQMQRLRSRDGDDGECKDFLQHLMKLRDQEADSD-----VPITMNHVKAVLMDMVVGGKESSTNTIEFVMAELISNPELMRRAQQELDEVVGKDNIVEESHITSLPYILAVLKETLRLYPTIPLLVPHRPTETAVVGGYTIPKNTKIFINVWSIQRDPNVWENPSEFRPKRFLENKSCDFTGTDYSFLPFGSGRRICAGIALAERMILYTLATLLHSFDWKIPDGHVLDLEEKFGIILKLKT</Hsp_hseq>
+      <Hsp_midline>++GN   +    H  F +LA+ +G +F++ LGS   VV+N      + L  Q   F++     + R V+ GG  + +  Y   W++ R+   + +         SR+ L+        E RE    L +   + + ++      + + N+M  + +G     +D      EF+E++S   E  R +G  ++ D  P L  F   ++ + ++     R+  + ILD+ +   + LR         +D +   +   +++A  D       + + +V A + D+    +++ +  +++++      P++  R Q ELD+VVG+D +       +LPY+LA L E +R    +P+ +PH  T    V GY IPK+T +F+N WS+  DP  W NP  F P RFL+             + F  G+R C G  L++  +   ++ L H  D++        +   +G+ +K K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|NP_182189.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 78, subfamily A, polypeptide 6 [Arabidopsis thaliana] &gt;sp|Q9ZNR0.1| RecName: Full=Cytochrome P450 78A6; AltName: Full=Protein ENHANCER OF DA1-1 [Arabidopsis thaliana] &gt;gb|AAC69923.1| putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AAM15240.1| putative cytochrome P450 [Arabidopsis thaliana] &gt;gb|AEC10736.1| cytochrome P450, family 78, subfamily A, polypeptide 6 [Arabidopsis thaliana] &gt;emb|VYS55740.1| unnamed protein product [Arabidopsis thaliana] &gt;dbj|BAE98862.1| putative cytochrome P450 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_182189</Hit_accession>
+  <Hit_len>530</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.599</Hsp_bit-score>
+      <Hsp_score>379</Hsp_score>
+      <Hsp_evalue>3.89295e-37</Hsp_evalue>
+      <Hsp_query-from>176</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>72</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>46</Hsp_gaps>
+      <Hsp_align-len>474</Hsp_align-len>
+      <Hsp_qseq>PGPFAWPLIGNAAAVGQA-AHLSFARLARRYGD--VFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYS--HDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFR---EFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVP-VTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDG-----LINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>PGPKGFPLVGSMSLMSSTLAHRRIADAAEKFGAKRLMAFSLGETRVIVTCNPDVAKEIL--NSPVFADRPVKESAYSLMFNRAIGFAPHGVYWRTLRRIASNHL--FSTKQIR-RAETQRRVISS--QMVEFLEKQSSNEPCFVRELLKTASLNNMMCSV-FGQEYELEKNHVELREMV---EEGYDLLGTLNWTDHLPWLSEF-DPQRLRSRCSTLVPKVNRFVSRIISEH--RN----QTGDLPRDFVDVLL----------SLHGSDKLSDPDIIAVLWEMIFRGTDTVAVLIEWILARMVLHPDMQSTVQNELDQVVGKSRALDESDLASLPYLTAVVKEVLRLHPPGPLLSWARLAITDTIVDGRLVPAGTTAMVNMWAVSHDPHVWVDPLEFKPERFVAKEGEVEFSVLGSDL--RLAPFGSGRRICPGKNLGFTTVMFWTAMMLHE--FEWGPSDGNGVDLSEKLRL</Hsp_hseq>
+      <Hsp_midline>PGP  +PL+G+ + +    AH   A  A ++G   +    LG   ++V        + L      FADRP   S   +   R++ F  +  +W+  RR A + +  F T+Q R R   +  V+S   ++V  L + S++        L   ++ N+M +V FG  Y    +  E RE++   EE    +G  +  D +PWL  F +P R   R      ++NR  S  I +   R+    + G  PRD +D  +          S  G  +L   ++ A + ++     DT++  ++W+L     +PD+Q+ VQ ELDQVVG+ R     D  +LPY+ A + E +R     P ++       +T V G  +P  T   VN W+V+HDP  W +P  F P RF+ K+G     ++  DL  R+  F  G+R C G+ L    +  + +++ H+  F   P++   ++ S  L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gb|OAP00654.1|</Hit_id>
+  <Hit_def>CYP81D2 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAP00654</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.828</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>4.26405e-37</Hsp_evalue>
+      <Hsp_query-from>163</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>478</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>82</Hsp_gaps>
+      <Hsp_align-len>509</Hsp_align-len>
+      <Hsp_qseq>LLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGD--VFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAF-GHYSEHWKVQRR-------AAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADG--------AFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMP---WLQYFPNPVRTVFREFEQLNRNF-----------SNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>LIGRIKRKLNLPPSPAWALPVIGHLRLLKPPLHRVFLSVSQSLGDAPIISLRLGNRLLFVVSSHSIAEECFTKNDVILANRQTTISTKHISYGNSTVVSASYSEHWRNLRRIGAVEIFSAHRL--NSFSSIRR----------DEIRRLIGRLLRNSSYGFTKVEMKSMFSD---LTFNNIIRMLAGKCYYGDGKEDDPEAKRVRTLIAEAMSSSGPGNAADYIPILTWITYSETRIKKLATRLDEFLQGLVDEKREGKEKKENTMVDHLLCLQET-----QPEYYMDRII-----------------------KGTMLSLIAGGTDTTAVTLEWALSSLLNNPEVLNKARDEIDRMIGEDRLLEESDIPNLPYLQNIVSETLRLYPAAPMLLPHVASKDCKVGGYDMPRGTMLLTNAWAIHRDPLLWDDPTSFKPERF-EKEGEAKK-----LMPFGLGRRACPGSGLAQRLVTLSLGSLIQCFEWERIGEEEVDMTEGPGLTM-PKA</Hsp_hseq>
+      <Hsp_midline>L+ + +R+L   P   +A P+IG+   +    H  F  +++  GD  +  +RLG+  + V++      +   +     A+R    S + +S G S      YSEHW+  RR       +AH +  N F+   R           E R L+  L+R S+ G         F D   LT   +  +++  C+      DDPE + + +   E   + G G+  D +P   W+ Y    ++ +    ++  +              N ++D  L   E+      P   MD  I                         T+  +     DT +  L+W L      P+V  + + E+D+++G DRL    D PNLPY+   + E +R     P+ +PH  + +  V GY +P+ T++  N W+++ DPL W +P +F P RF +K+G   K     +M F +G+R C G  L++  + L +  L    ++     E   M    GLT+ PK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|NP_195452.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 81, subfamily D, polypeptide 2 [Arabidopsis thaliana] &gt;gb|AEE86784.1| cytochrome P450, family 81, subfamily D, polypeptide 2 [Arabidopsis thaliana] &gt;emb|CAB38203.1| cytochrome p450-like protein [Arabidopsis thaliana] &gt;emb|CAB80401.1| cytochrome p450-like protein [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_195452</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>148.288</Hsp_bit-score>
+      <Hsp_score>373</Hsp_score>
+      <Hsp_evalue>1.38215e-36</Hsp_evalue>
+      <Hsp_query-from>163</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>478</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>82</Hsp_gaps>
+      <Hsp_align-len>509</Hsp_align-len>
+      <Hsp_qseq>LLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGD--VFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAF-GHYSEHWKVQRR-------AAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADG--------AFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMP---WLQYFPNPVRTVFREFEQLNRNF-----------SNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>LIGRIKRKLNLPPSPAWALPVIGHLRLLKPPLHRVFLSVSQSLGDAPIISLRLGNRLLFVVSSHSIAEECFTKNDVILANRQTTISTKHISYGNSTVVSASYSEHWRNLRRIGALEIFSAHRL--NSFSSIRR----------DEIRRLIGRLLRNSSYGFTKVEMKSMFSD---LTFNNIIRMLAGKCYYGDGKEDDPEAKRVRTLIAEAMSSSGPGNAADYIPILTWITYSETRIKKLAGRLDEFLQGLVDEKREGKEKKENTMVDHLLCLQET-----QPEYYMDRII-----------------------KGTMLSLIAGGTDTTAVTLEWALSSLLNNPEVLNKARDEIDRMIGVDRLLEESDIPNLPYLQNIVSETLRLYPAAPMLLPHVASKDCKVGGYDMPRGTMLLTNAWAIHRDPLLWDDPTSFKPERF-EKEGEAKK-----LMPFGLGRRACPGSGLAQRLVTLSLGSLIQCFEWERIGEEEVDMTEGPGLTM-PKA</Hsp_hseq>
+      <Hsp_midline>L+ + +R+L   P   +A P+IG+   +    H  F  +++  GD  +  +RLG+  + V++      +   +     A+R    S + +S G S      YSEHW+  RR       +AH +  N F+   R           E R L+  L+R S+ G         F D   LT   +  +++  C+      DDPE + + +   E   + G G+  D +P   W+ Y    ++ +    ++  +              N ++D  L   E+      P   MD  I                         T+  +     DT +  L+W L      P+V  + + E+D+++G DRL    D PNLPY+   + E +R     P+ +PH  + +  V GY +P+ T++  N W+++ DPL W +P +F P RF +K+G   K     +M F +G+R C G  L++  + L +  L    ++     E   M    GLT+ PK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|NP_196307.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 93, subfamily D, polypeptide 1 [Arabidopsis thaliana] &gt;gb|AED91079.1| cytochrome P450, family 93, subfamily D, polypeptide 1 [Arabidopsis thaliana] &gt;gb|OAO89550.1| CYP93D1 [Arabidopsis thaliana] &gt;dbj|BAB11147.1| cytochrome P450 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_196307</Hit_accession>
+  <Hit_len>507</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.902</Hsp_bit-score>
+      <Hsp_score>372</Hsp_score>
+      <Hsp_evalue>1.9397e-36</Hsp_evalue>
+      <Hsp_query-from>140</Hsp_query-from>
+      <Hsp_query-to>611</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>453</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>121</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>36</Hsp_gaps>
+      <Hsp_align-len>480</Hsp_align-len>
+      <Hsp_qseq>LSIQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGH-YSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVR----GSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD--PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGA-APRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISIL</Hsp_qseq>
+      <Hsp_hseq>VDLQYFSVIILVCLGITVLI--QAITNRLRDRLPLPPSPTALPIIGHIHLLGPIAHQALHKLSIRYGPLMYLFIGSIPNLIVSSAEMANEILKSNELNFLNRPTMQNVDYLTYGSADFFSAPYGLHWKFMKRIC---MVELF-----SSRALDSFVSVRSEELKKLLIRVLKKAEAEESVNLGEQLKELT-SNIITRMMFRKMQSDSDGGEKSEEVIKMVVELNELAGFFNVSETFWFLKRLD--LQGLKKRLKNA-RDKYDVIIERIMEEHESSKKNATGERNMLDVLLDIYEDKNAE------MKLTRENIKAFIMNIYGGGTDTSAITVEWALAELINHPEIMKKAQQEIEQVVGNKRVVEESDLCNLSYTQAVVKETMRLHPGGPIFV-RESDEECAVAGFRIPAKTRVIVNVWAIGRDSNQWEDPLEFRPERF---EGSEWKVMSEKMMSFGAGRRSCPGEKM----VFRFVPII</Hsp_hseq>
+      <Hsp_midline>+ +Q  ++++L+ +  TV +  + +  R R     PP P A P+IG+   +G  AH +  +L+ RYG +  + +GS P ++++     ++ L      F +RP   +   ++ G +  F   Y  HWK  +R     M   F     S + L+  V   + EL  LL+R      A+ +      L  +  +N+++ + F    S  D   +  E++    E     G  ++ +   +L+     ++ + +  +   R+  + I+++ +   ES +  A   R+M+D  +   E K A        +L  EN+ A I +I+G   DT +  ++W L     +P++  + Q E++QVVG  R+    D  NL Y  A + E MR     P+ +   +    +V G+ IP  T V VN W++  D  +W +P  F P RF   +G   K ++ ++M F  G+R C GE++    +F F+ I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|NP_194878.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 83, subfamily B, polypeptide 1 [Arabidopsis thaliana] &gt;sp|O65782.1| RecName: Full=Cytochrome P450 83B1; AltName: Full=Protein ALTERED TRYPTOPHAN REGULATION 4; AltName: Full=Protein RED ELONGATED 1; AltName: Full=Protein SUPERROOT 2 [Arabidopsis thaliana] &gt;gb|AAM61746.1| cytochrome P450 monooxygenase [Arabidopsis thaliana] &gt;gb|AAN86166.1| putative cytochrome P450 monooxygenase [Arabidopsis thaliana] &gt;gb|AEE85921.1| cytochrome P450, family 83, subfamily B, polypeptide 1 [Arabidopsis thaliana] &gt;gb|OAO96838.1| SUR2 [Arabidopsis thaliana] &gt;emb|CAA0397138.1| unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_194878</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.517</Hsp_bit-score>
+      <Hsp_score>371</Hsp_score>
+      <Hsp_evalue>2.32074e-36</Hsp_evalue>
+      <Hsp_query-from>147</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>489</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>505</Hsp_align-len>
+      <Hsp_qseq>LLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLIGNAAAVGQ--AAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFT--RQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHC--ESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKW-PNPENFDPARFLDK-DGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDF---RANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>LLLIIAGLVAAAAFFFLRSTTKKSLR-LPPGPKGLPIIGNLHQMEKFNPQHFLF-RLSKLYGPIFTMKIGGRRLAVISSAELAKELLKTQDLNFTARPLLKGQQTMSYQGRELGFGQYTAYYREMRKMC---MVNLFSPNRVASFRPVRE----EECQRMMDKIYKAADQSGTVDLSELLLSFTNCVVCRQAFGKRYNEYGTEMKRFIDILYETQALLGTLFFSDLFPYFGFLDNLTGLSAR----LKKAFKE--LDTYLQELLDETLDPNR-PKQETESFIDLLMQIYKDQPFS--IKFTHENVKAMILDIVVPGTDTAAAVVVWAMTYLIKYPEAMKKAQDEVRSVIGDKGYVSEEDIPNLPYLKAVIKESLRLEPVIPILLHRETIADAKIGGYDIPAKTIIQVNAWAVSRDTAAWGDNPNEFIPERFMNEHKGVDFKGQDFELLPFGSGRRMCPAMHLGIAMVEIPFANLLYKFDWSLPKGIKPEDIKMDVMTGLAMHKKE</Hsp_hseq>
+      <Hsp_midline>LLL+++ L        L    ++ LR  PPGP   P+IGN   + +    H  F RL++ YG +F +++G   + V++      + L  Q   F  RP     + +S  GR + FG Y+ +++  R+     M N F+  R    R V E     E + ++  + + +     +D   L +     V+    FG RY+    E +  +    E    +G     D+ P+  +  N      R    L + F    LD +L+    E+L P   P+   ++FI    +           +   ENV A I DI     DT +  + W +    +YP+   + Q E+  V+G        D PNLPY+ A + E++R    +P+ +   T A+  + GY IP  T++ VN W+V+ D   W  NP  F P RF+++  G+  K     ++ F  G+R C    L    + +  + L ++ D+   +    E  KM+   GL +  K </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gb|OAP06784.1|</Hit_id>
+  <Hit_def>CYP71B34 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>OAP06784</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.747</Hsp_bit-score>
+      <Hsp_score>369</Hsp_score>
+      <Hsp_evalue>4.89575e-36</Hsp_evalue>
+      <Hsp_query-from>166</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>488</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>486</Hsp_align-len>
+      <Hsp_qseq>QRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGR-SMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTV-------GAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAEL-DQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN---EPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>KNRRNYQRTPPSPPGFPIIGNLHQLGELPHQSLWKLSKKYGPVMLLKLGRVPTVIVSSSETAKQALKIHDLHCCSRPGFAGARELSYNYLDIAFSPYDDYWKEVRKLAVQEL--FSSKQVHSIQPMKDE---EVKKLIDSISESAAQKT---PINLNKTLLALTVSVVCRTAFSVN----FEGTVLNSERFNNIVREALEMLGSFSASDFIPYVGRIIDLLTGLQGRRERSMRDLDAFYEQMFDLHKQKKEEGS--EDFVD-LLLRLEKEEAV---LGNDKLTRNHIKAILMDVLLAGMDTSAITMTWAMAELAKNPRVMKKVQSEIRSQIKNKERI-SFDDTDKLEYLKMVIKETWRLHPTTPLLIPREAMSEFEINGYTIPVKTRLHVNVWAIGRDPDTWKDPEVFLPERFMD-NNIDAKGQHFELLPFGGGRRMCPAVYMGTTMVEFGLANLLYHFDWKLPEGMKVDDIDMEEAPGLTVNKKN</Hsp_hseq>
+      <Hsp_midline>+ RR  +  PP P  +P+IGN   +G+  H S  +L+++YG V  ++LG  P V+++      QAL         RP FA  R +S     +AF  Y ++WK  R+ A   +  F ++Q  S Q ++     E ++L+  +   +A      P  L    +A  +S VC      +    F   + ++E F   V       G+ S  D +P++    + +  +    E+  R+   F    F  H +    G+   D +D  +L  EK+ A     G  +L   ++ A + D+  A  DT +  + W +    + P V  +VQ+E+  Q+  ++R+    D   L Y+   + E  R     P+ IP    +   + GY IP  T + VN W++  DP  W +PE F P RF+D + +  K     ++ F  G+R C    +    +   ++ L +  D++       +   M  + GLT+  K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>emb|CAA0385011.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0385011</Hit_accession>
+  <Hit_len>489</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.362</Hsp_bit-score>
+      <Hsp_score>368</Hsp_score>
+      <Hsp_evalue>5.62866e-36</Hsp_evalue>
+      <Hsp_query-from>165</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>475</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>41</Hsp_gaps>
+      <Hsp_align-len>483</Hsp_align-len>
+      <Hsp_qseq>RQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASF-RVVSGGRSMAFGHYSEHWKVQRRA------AHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQ-PNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKW-PNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFR---ANPNEPAKMNFSYGLTI</Hsp_qseq>
+      <Hsp_hseq>KQKRGKKRNTLPSPPGLPLIGNLHQLGRHPHRSLCSLSHRYGPLMLLHFGRVPVLVVSSAGVARDVLKTHDRVFASRPRSKIFEKLLYDKHDVASAPYGEYWRQMKSVCVLHLFSNKMVRSF--REVREEEI--SLMMEKIRKSISLPVNLSK---------ILVSLTNDVICKVALGRKYG-GETDFKELM---ERLSKLLGTFSVGSYVPWLAWI-DWIRGLDRQLEKTANDLDKFFDRVVQDHVDGNRDMT---DFVDVLLAIQRDKTV------GFEINRVSIKAIVMNVFVGGTDTSSTLMDWAMTELLRHPKCLKRLQEEV-RTICKDKSSVSEEEIQNMSYLKAVIKEALRLHPPLPLMVPHESTQDVRLGDHHIPAGTQVLINAWAIGREAATWGPDVEEFRPERHLDS-SVDYRGQAFELIPFGSGRRICPAISFAVVLNEVVLANLVHQFDWRLPVESTEEQTEVAESTGIAI</Hsp_hseq>
+      <Hsp_midline>+Q+R + R+  P P   PLIGN   +G+  H S   L+ RYG +  +  G  P++V++        L      FA RP    F +++     +A   Y E+W+  +        ++ M+R+F  R+ R  ++    ++ + R+ ++L V  S          + V    +V+  V  G +Y   + +F+EL+   E   + +G  S+   +PWL +  + +R + R+ E+   +   F       H +  R      D +D  +     K        G  ++  ++ A + ++F    DT ST + W +    R+P    R+Q E+ + + +D+     ++  N+ Y+ A + EA+R    +P+ +PH +T +  +  +HIP  T V +N W++  +   W P+ E F P R LD   +  +     ++ F  G+R C     + +   + ++ L HQ D+R    +  E  ++  S G+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>emb|CAA0401132.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0401132</Hit_accession>
+  <Hit_len>507</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>145.976</Hsp_bit-score>
+      <Hsp_score>367</Hsp_score>
+      <Hsp_evalue>9.58444e-36</Hsp_evalue>
+      <Hsp_query-from>164</Hsp_query-from>
+      <Hsp_query-to>611</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>453</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>456</Hsp_align-len>
+      <Hsp_qseq>LRQRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGRSMAFGH-YSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVR----GSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD--PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGA-APRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISIL</Hsp_qseq>
+      <Hsp_hseq>ITNRLRNRLPLPPSPTALPIIGHIHLLGPIAHQALHKLSIRYGPLMYLFIGSIPNLIVSSAEMANEILKSNELNFLNRPTMQNVDYLTYGSADFFSAPYGLHWKFMKRIC---MVELF-----SSRALDSFVSVRSEELKKLLIRVLKKAEAEESVNLGEQLKELT-SNIITRMMFRKMQSDSDGGEKSEEVIKMVVELNELAGFFNVSETFWFLKRLD--LQGLKKRLKNA-RDKYDVIIERIMEEHESSKKKATGERNMLDVLLDIYEDKNAE------MKLTRENIKAFIMNIYGGGTDTSAITVEWALAELINHPEIMKKAQQEIEQVVGNKRVVEESDLCNLSYTQAVVKETMRLHPGGPIFV-RESDEECAVAGFRIPAKTRVIVNVWAIGRDSNQWEDPLEFRPERF---EGSEWKVMSEKMMSFGAGRRSCPGEKM----VFRFVPII</Hsp_hseq>
+      <Hsp_midline>+  R R     PP P A P+IG+   +G  AH +  +L+ RYG +  + +GS P ++++     ++ L      F +RP   +   ++ G +  F   Y  HWK  +R     M   F     S + L+  V   + EL  LL+R      A+ +      L  +  +N+++ + F    S  D   +  E++    E     G  ++ +   +L+     ++ + +  +   R+  + I+++ +   ES +  A   R+M+D  +   E K A        +L  EN+ A I +I+G   DT +  ++W L     +P++  + Q E++QVVG  R+    D  NL Y  A + E MR     P+ +   +    +V G+ IP  T V VN W++  D  +W +P  F P RF   +G   K ++ ++M F  G+R C GE++    +F F+ I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>emb|CAA0383744.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAA0383744</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>144.436</Hsp_bit-score>
+      <Hsp_score>363</Hsp_score>
+      <Hsp_evalue>2.24904e-35</Hsp_evalue>
+      <Hsp_query-from>166</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>488</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>486</Hsp_align-len>
+      <Hsp_qseq>QRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGR-SMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTV-------GAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAEL-DQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN---EPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>KNRRNYQRTPPSPPGCPIIGNLHQLGELPHQSLWKLSKKYGPVMLLKLGRVPTVIVSSSETAKQALKIHDLHCCSRPGFAGARELSYNYLDIAFSPYDDYWKEVRKLAVQEL--FSSKQVHSIQPMKDE---EVKKLIDSISESAAQKT---PINLNKTLLALTVSVVCRTAFSVN----FEGTVLNSERFNNIVREALEMLGSFSASDFIPYVGRIIDLLTGLQGRRERSMRDLDAFYEQMFDLHKQKKEEGS--EDFVD-LLLRLEKEEAV---LGNDKLTRNHIKAILMDVLLAGMDTSAITMTWAMAELAKNPRVMKKVQSEIRSQIKNKERI-SFDDTDKLEYLKMVIKETWRLHPTTPLLIPREAMSEFEINGYTIPVKTRLHVNVWAIGRDPDTWKDPEVFLPERFTD-NNIDAKGQHFELLPFGGGRRMCPAVYMGTTMVEFGLTNLLYHFDWKLPEGMKVDDIDMEEAPGLTVNKKN</Hsp_hseq>
+      <Hsp_midline>+ RR  +  PP P   P+IGN   +G+  H S  +L+++YG V  ++LG  P V+++      QAL         RP FA  R +S     +AF  Y ++WK  R+ A   +  F ++Q  S Q ++     E ++L+  +   +A      P  L    +A  +S VC      +    F   + ++E F   V       G+ S  D +P++    + +  +    E+  R+   F    F  H +    G+   D +D  +L  EK+ A     G  +L   ++ A + D+  A  DT +  + W +    + P V  +VQ+E+  Q+  ++R+    D   L Y+   + E  R     P+ IP    +   + GY IP  T + VN W++  DP  W +PE F P RF D + +  K     ++ F  G+R C    +    +   ++ L +  D++       +   M  + GLT+  K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|NP_189261.1|</Hit_id>
+  <Hit_def>cytochrome P450, family 71, subfamily B, polypeptide 34 [Arabidopsis thaliana] &gt;sp|Q9LIP6.1| RecName: Full=Cytochrome P450 71B34 [Arabidopsis thaliana] &gt;gb|AEE77143.1| cytochrome P450, family 71, subfamily B, polypeptide 34 [Arabidopsis thaliana] &gt;dbj|BAB02190.1| cytochrome P450 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>NP_189261</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>144.05</Hsp_bit-score>
+      <Hsp_score>362</Hsp_score>
+      <Hsp_evalue>3.07858e-35</Hsp_evalue>
+      <Hsp_query-from>166</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>488</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>486</Hsp_align-len>
+      <Hsp_qseq>QRRRQLRSAPPGPFAWPLIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVSGGR-SMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTV-------GAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAEL-DQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPN---EPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>KNRRNYQRTPPSPPGCPIIGNLHQLGELPHQSLWKLSKKYGPVMLLKLGRVPTVIVSSSETAKQALKIHDLHCCSRPGFAGARELSYNYLDIAFSPYDDYWKEVRKLAVQEL--FSSKQVHSIQPIKDE---EVKKLIDSISESAAQKT---PINLNKTLLALTVSVVCRTAFSVN----FEGTVLNSERFNNIVREALEMLGSFSASDFIPYVGRIIDLLTGLQGRRERSMRDLDAFYEQMFDLHKQKKEEGS--EDFVD-LLLRLEKEEAV---LGNDKLTRNHIKAILMDVLLAGMDTSAITMTWAMAELAKNPRVMKKVQSEIRSQIKNKERI-SFDDTDKLEYLKMVIKETWRLHPTTPLLIPREAMSEFEINGYTIPVKTRLHVNVWAIGRDPDTWKDPEVFLPERFTD-NNIDAKGQHFELLPFGGGRRMCPAVYMGTTMVEFGLANLLYHFDWKLPEGMKVDDIDMEEAPGLTVNKKN</Hsp_hseq>
+      <Hsp_midline>+ RR  +  PP P   P+IGN   +G+  H S  +L+++YG V  ++LG  P V+++      QAL         RP FA  R +S     +AF  Y ++WK  R+ A   +  F ++Q  S Q ++     E ++L+  +   +A      P  L    +A  +S VC      +    F   + ++E F   V       G+ S  D +P++    + +  +    E+  R+   F    F  H +    G+   D +D  +L  EK+ A     G  +L   ++ A + D+  A  DT +  + W +    + P V  +VQ+E+  Q+  ++R+    D   L Y+   + E  R     P+ IP    +   + GY IP  T + VN W++  DP  W +PE F P RF D + +  K     ++ F  G+R C    +    +   ++ L +  D++       +   M  + GLT+  K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>emb|CAD5327671.1|</Hit_id>
+  <Hit_def>unnamed protein product [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>CAD5327671</Hit_accession>
+  <Hit_len>518</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>144.05</Hsp_bit-score>
+      <Hsp_score>362</Hsp_score>
+      <Hsp_evalue>3.95181e-35</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>639</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>203</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>468</Hsp_align-len>
+      <Hsp_qseq>LIGNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAFASFRVVS-GGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHV---LSEARELVALLVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDD-----PEFRELLSHNEEFGRTVGAGSLVDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFI--LSAEKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAELDQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVVFVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQLFLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKS</Hsp_qseq>
+      <Hsp_hseq>IVGNLPFLDPDLHTYFTKLAQSHGPIFKLNLGSKLTVVVNTPSLAREILKDQDINFSNHDVPLTARAVTYGGLDLVWLPYGAEWR--------MLRKVCVLKLLSRRTLDSFYELRRKEIRERTRYLYQKGQEESPVNVGDQVFLTMMNLTMNMLWGGSVKAEEMESVGTEFKEVIS---EITRLLGEPNVSDFFPRLARFD--LQGLVKKMHVCAREL-DAILDRAIEQMQLLRTRDGDDGECKDFLQHLMKLKDQEADSE---VPITVNHVKAVLVDLVVGGTDTSTNTIEFAMAELIRKPELMKRAQQELDEVVGKDNIIEESHITRLSFISAIMKETLRLYPTIPLLVPHRPSETALVGGYTIPKNTKIFINVWSIQRDPNVWEYPTEFRPERFLDKKSCDFTGTDYSYLPFGSGRRICAGIALAERMILYTLATLLHSFDWTIPDGHVLDLEEKFGIVLKLKT</Hsp_hseq>
+      <Hsp_midline>++GN   +    H  F +LA+ +G +F++ LGS   VV+N      + L  Q   F++     + R V+ GG  + +  Y   W+        M+R     +  SR+ L+        E RE    L +   + + ++      + + N+   + +G     ++      EF+E++S   E  R +G  ++ D  P L  F   ++ + ++     R   + ILD+ +   + LR           F+  L   K    DS      + + +V A + D+     DT +  +++ +    R P++  R Q ELD+VVG+D +        L ++ A + E +R    +P+ +PH  +    V GY IPK+T +F+N WS+  DP  W  P  F P RFLDK            + F  G+R C G  L++  +   ++ L H  D+         +   +G+ +K K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>133783</Statistics_db-num>
+      <Statistics_db-len>57882117</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
