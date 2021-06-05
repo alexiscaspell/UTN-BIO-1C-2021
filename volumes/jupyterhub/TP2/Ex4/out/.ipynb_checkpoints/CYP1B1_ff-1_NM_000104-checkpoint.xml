@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbody>
+   <tr>
+      <td>ref|NP_000095.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('NP_000095')">NP_000095</button>
+      </td>
+      <td>1130.55</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Homo sapiens]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_001167556.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_001167556')">XP_001167556</button>
+      </td>
+      <td>1113.21</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Pan troglodytes]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_008969141.3|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_008969141')">XP_008969141</button>
+      </td>
+      <td>1112.44</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Pan paniscus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_018876739.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_018876739')">XP_018876739</button>
+      </td>
+      <td>1108.21</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Gorilla gorilla gorilla]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_009235654.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_009235654')">XP_009235654</button>
+      </td>
+      <td>1101.66</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 isoform X1 [Pongo abelii]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_003262792.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_003262792')">XP_003262792</button>
+      </td>
+      <td>1097.42</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Nomascus leucogenys]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_032032567.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_032032567')">XP_032032567</button>
+      </td>
+      <td>1096.26</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Hylobates moloch]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_007969104.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_007969104')">XP_007969104</button>
+      </td>
+      <td>1035.79</td>
+      <td>547</td>
+      <td>cytochrome P450 1B1 isoform X1 [Chlorocebus sabaeus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_023072089.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_023072089')">XP_023072089</button>
+      </td>
+      <td>1035.02</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Piliocolobus tephrosceles]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_007969105.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_007969105')">XP_007969105</button>
+      </td>
+      <td>1033.86</td>
+      <td>542</td>
+      <td>cytochrome P450 1B1 isoform X2 [Chlorocebus sabaeus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_017715914.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_017715914')">XP_017715914</button>
+      </td>
+      <td>1031.55</td>
+      <td>543</td>
+      <td>PREDICTED: cytochrome P450 1B1 [Rhinopithecus bieti]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_010385383.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_010385383')">XP_010385383</button>
+      </td>
+      <td>1029.62</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Rhinopithecus roxellana]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_033031887.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_033031887')">XP_033031887</button>
+      </td>
+      <td>1029.24</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Trachypithecus francoisi]</td>
+   </tr>
+   <tr>
+      <td>ref|NP_001253797.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('NP_001253797')">NP_001253797</button>
+      </td>
+      <td>1026.93</td>
+      <td>542</td>
+      <td>cytochrome P450 1B1 [Macaca mulatta]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_012330904.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_012330904')">XP_012330904</button>
+      </td>
+      <td>1026.54</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Aotus nancymaae]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_014967577.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_014967577')">XP_014967577</button>
+      </td>
+      <td>1025.39</td>
+      <td>547</td>
+      <td>cytochrome P450 1B1 isoform X1 [Macaca mulatta]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_011940520.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_011940520')">XP_011940520</button>
+      </td>
+      <td>1025.0</td>
+      <td>547</td>
+      <td>PREDICTED: cytochrome P450 1B1 isoform X1 [Cercocebus atys]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_011940521.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_011940521')">XP_011940521</button>
+      </td>
+      <td>1024.62</td>
+      <td>542</td>
+      <td>PREDICTED: cytochrome P450 1B1 isoform X2 [Cercocebus atys]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_025261673.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_025261673')">XP_025261673</button>
+      </td>
+      <td>1023.08</td>
+      <td>547</td>
+      <td>cytochrome P450 1B1 isoform X1 [Theropithecus gelada]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_025261674.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_025261674')">XP_025261674</button>
+      </td>
+      <td>1023.08</td>
+      <td>542</td>
+      <td>cytochrome P450 1B1 isoform X2 [Theropithecus gelada]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_005576154.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_005576154')">XP_005576154</button>
+      </td>
+      <td>1022.69</td>
+      <td>547</td>
+      <td>PREDICTED: cytochrome P450 1B1 isoform X1 [Macaca fascicularis]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_009182272.3|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_009182272')">XP_009182272</button>
+      </td>
+      <td>1022.69</td>
+      <td>547</td>
+      <td>cytochrome P450 1B1 isoform X1 [Papio anubis]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_011711263.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_011711263')">XP_011711263</button>
+      </td>
+      <td>1021.92</td>
+      <td>547</td>
+      <td>cytochrome P450 1B1 isoform X1 [Macaca nemestrina]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_011711264.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_011711264')">XP_011711264</button>
+      </td>
+      <td>1021.54</td>
+      <td>542</td>
+      <td>cytochrome P450 1B1 isoform X2 [Macaca nemestrina]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_003908569.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_003908569')">XP_003908569</button>
+      </td>
+      <td>1021.54</td>
+      <td>542</td>
+      <td>cytochrome P450 1B1 isoform X2 [Papio anubis]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_005576155.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_005576155')">XP_005576155</button>
+      </td>
+      <td>1021.15</td>
+      <td>542</td>
+      <td>PREDICTED: cytochrome P450 1B1 isoform X2 [Macaca fascicularis]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_011852731.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_011852731')">XP_011852731</button>
+      </td>
+      <td>1021.15</td>
+      <td>542</td>
+      <td>PREDICTED: cytochrome P450 1B1 [Mandrillus leucophaeus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_017819891.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_017819891')">XP_017819891</button>
+      </td>
+      <td>1020.76</td>
+      <td>548</td>
+      <td>cytochrome P450 1B1 isoform X1 [Callithrix jacchus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_011791343.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_011791343')">XP_011791343</button>
+      </td>
+      <td>1020.38</td>
+      <td>543</td>
+      <td>PREDICTED: cytochrome P450 1B1 [Colobus angolensis palliatus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_035128663.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_035128663')">XP_035128663</button>
+      </td>
+      <td>1018.84</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 isoform X2 [Callithrix jacchus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_003926850.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_003926850')">XP_003926850</button>
+      </td>
+      <td>1013.83</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Saimiri boliviensis boliviensis]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_032095237.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_032095237')">XP_032095237</button>
+      </td>
+      <td>1012.68</td>
+      <td>548</td>
+      <td>cytochrome P450 1B1 isoform X1 [Sapajus apella]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_017370821.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_017370821')">XP_017370821</button>
+      </td>
+      <td>1011.52</td>
+      <td>548</td>
+      <td>cytochrome P450 1B1 isoform X1 [Cebus imitator]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_032095238.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_032095238')">XP_032095238</button>
+      </td>
+      <td>1011.52</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 isoform X2 [Sapajus apella]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_017370822.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_017370822')">XP_017370822</button>
+      </td>
+      <td>1009.21</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 isoform X2 [Cebus imitator]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_036729816.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_036729816')">XP_036729816</button>
+      </td>
+      <td>949.888</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Balaenoptera musculus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_007167209.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_007167209')">XP_007167209</button>
+      </td>
+      <td>947.962</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Balaenoptera acutorostrata scammoni]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_008583348.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_008583348')">XP_008583348</button>
+      </td>
+      <td>943.34</td>
+      <td>543</td>
+      <td>PREDICTED: cytochrome P450 1B1 [Galeopterus variegatus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_007102922.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_007102922')">XP_007102922</button>
+      </td>
+      <td>939.873</td>
+      <td>544</td>
+      <td>cytochrome P450 1B1 [Physeter catodon]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_004265091.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_004265091')">XP_004265091</button>
+      </td>
+      <td>939.102</td>
+      <td>541</td>
+      <td>cytochrome P450 1B1 [Orcinus orca]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_012643912.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_012643912')">XP_012643912</button>
+      </td>
+      <td>937.562</td>
+      <td>541</td>
+      <td>cytochrome P450 1B1 [Microcebus murinus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_007445846.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_007445846')">XP_007445846</button>
+      </td>
+      <td>934.095</td>
+      <td>543</td>
+      <td>PREDICTED: cytochrome P450 1B1-like [Lipotes vexillifer]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_029088211.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_029088211')">XP_029088211</button>
+      </td>
+      <td>934.095</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Monodon monoceros]</td>
+   </tr>
+   <tr>
+      <td>ref|NP_001153156.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('NP_001153156')">NP_001153156</button>
+      </td>
+      <td>934.095</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Canis lupus familiaris]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_022429767.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_022429767')">XP_022429767</button>
+      </td>
+      <td>932.939</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Delphinapterus leucas]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_030713761.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_030713761')">XP_030713761</button>
+      </td>
+      <td>932.554</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Globicephala melas]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_024408802.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_024408802')">XP_024408802</button>
+      </td>
+      <td>931.784</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Desmodus rotundus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_001499815.2|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_001499815')">XP_001499815</button>
+      </td>
+      <td>931.013</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Equus caballus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_019798447.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_019798447')">XP_019798447</button>
+      </td>
+      <td>930.628</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Tursiops truncatus]</td>
+   </tr>
+   <tr>
+      <td>ref|XP_025874736.1|</td>
+      <td>
+         <button type="button" class="btn btn-xs btn-primary" onclick="getAccession('XP_025874736')">XP_025874736</button>
+      </td>
+      <td>930.628</td>
+      <td>543</td>
+      <td>cytochrome P450 1B1 [Vulpes vulpes]</td>
+   </tr>
+</tbody>
