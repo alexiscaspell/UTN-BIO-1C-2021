@@ -1,0 +1,42 @@
+Query: unnamed
+       protein product
+  Hit: ref|XP_001167556.1| (543)
+       cytochrome P450 1B1 [Pan troglodytes]
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1113.21     543        [124:667]                [0:543]
+
+      Query: unnamed protein product
+        Hit: ref|XP_001167556.1| cytochrome P450 1B1 [Pan troglodytes]
+Query range: [124:667] (0)
+  Hit range: [0:543] (0)
+Quick stats: evalue 0; bitscore 1113.21
+  Fragments: 1 (543 columns)
+     Query - MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPL~~~KETCQ
+             MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQL SAPPGPFAWPL~~~KETCQ
+       Hit - MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQLGSAPPGPFAWPL~~~KETCQ
+
+ ============================================== 
+
+Query: unnamed
+       protein product
+  Hit: ref|XP_008969141.3| (543)
+       cytochrome P450 1B1 [Pan paniscus]
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1112.44     543        [124:667]                [0:543]
+
+      Query: unnamed protein product
+        Hit: ref|XP_008969141.3| cytochrome P450 1B1 [Pan paniscus]
+Query range: [124:667] (0)
+  Hit range: [0:543] (0)
+Quick stats: evalue 0; bitscore 1112.44
+  Fragments: 1 (543 columns)
+     Query - MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPL~~~KETCQ
+             MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQL SAPPGPFAWPL~~~KETCQ
+       Hit - MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQLGSAPPGPFAWPL~~~KETCQ
+
+ ============================================== 
+
