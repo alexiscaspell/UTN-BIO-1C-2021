@@ -4,3 +4,6 @@ jupyterhub-nativeauthenticator
 jupyter
 jupyterlab
 biopython
+
+beautifulsoup4
+requests-html
