@@ -1,0 +1,255 @@
+LOCUS       NM_000261               2100 bp    mRNA    linear   PRI 16-MAR-2021
+DEFINITION  Homo sapiens myocilin (MYOC), mRNA.
+ACCESSION   NM_000261
+VERSION     NM_000261.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2100)
+  AUTHORS   Yang Y, Abdulatef ASWA, Zhang L, Jiang H, Zeng Z, Li H and Xia X.
+  TITLE     Cross-talk between MYOC p. Y437H mutation and TGF-beta2 in the
+            pathology of glaucoma
+  JOURNAL   Int J Med Sci 17 (8), 1062-1070 (2020)
+   PUBMED   32410836
+  REMARK    GeneRIF: Cross-talk between MYOC p. Y437H mutation and TGF-beta2 in
+            the pathology of glaucoma.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2100)
+  AUTHORS   Luck K, Kim DK, Lambourne L, Spirohn K, Begg BE, Bian W, Brignall
+            R, Cafarelli T, Campos-Laborie FJ, Charloteaux B, Choi D, Cote AG,
+            Daley M, Deimling S, Desbuleux A, Dricot A, Gebbia M, Hardy MF,
+            Kishore N, Knapp JJ, Kovacs IA, Lemmens I, Mee MW, Mellor JC,
+            Pollis C, Pons C, Richardson AD, Schlabach S, Teeking B, Yadav A,
+            Babor M, Balcha D, Basha O, Bowman-Colin C, Chin SF, Choi SG,
+            Colabella C, Coppin G, D'Amata C, De Ridder D, De Rouck S,
+            Duran-Frigola M, Ennajdaoui H, Goebels F, Goehring L, Gopal A,
+            Haddad G, Hatchi E, Helmy M, Jacob Y, Kassa Y, Landini S, Li R, van
+            Lieshout N, MacWilliams A, Markey D, Paulson JN, Rangarajan S,
+            Rasla J, Rayhan A, Rolland T, San-Miguel A, Shen Y, Sheykhkarimli
+            D, Sheynkman GM, Simonovsky E, Tasan M, Tejeda A, Tropepe V,
+            Twizere JC, Wang Y, Weatheritt RJ, Weile J, Xia Y, Yang X,
+            Yeger-Lotem E, Zhong Q, Aloy P, Bader GD, De Las Rivas J, Gaudet S,
+            Hao T, Rak J, Tavernier J, Hill DE, Vidal M, Roth FP and Calderwood
+            MA.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   3  (bases 1 to 2100)
+  AUTHORS   Zhang X, Zhang D, Huang L, Hao F, Lin Y, Gong B and Yang Z.
+  TITLE     [Analysis of MYOC gene variants among sporadic patients with
+            primary open-angle glaucoma]
+  JOURNAL   Zhonghua Yi Xue Yi Chuan Xue Za Zhi 36 (7), 662-665 (2019)
+   PUBMED   31302906
+  REMARK    GeneRIF: Two novel variants of the MYOC gene were detected among
+            sporadic primary open-angle glaucoma patients
+REFERENCE   4  (bases 1 to 2100)
+  AUTHORS   Alward WLM, van der Heide C, Khanna CL, Roos BR, Sivaprasad S, Kam
+            J, Ritch R, Lotery A, Igo RP Jr, Cooke Bailey JN, Stone EM, Scheetz
+            TE, Kwon YH, Pasquale LR, Wiggs JL and Fingert JH.
+  CONSRTM   NEIGHBORHOOD Consortium
+  TITLE     Myocilin Mutations in Patients With Normal-Tension Glaucoma
+  JOURNAL   JAMA Ophthalmol 137 (5), 559-563 (2019)
+   PUBMED   30816940
+  REMARK    GeneRIF: MYOC was discovered to be associated with glaucoma via
+            genetic studies of pedigrees with juvenile-onset primary open-angle
+            glaucoma (JOAG). The patients with JOAG in these studies were found
+            to harbor a set of MYOC mutations.
+REFERENCE   5  (bases 1 to 2100)
+  AUTHORS   O'Gorman L, Cree AJ, Ward D, Griffiths HL, Sood R, Denniston AK,
+            Self JE, Ennis S, Lotery AJ and Gibson J.
+  TITLE     Comprehensive sequencing of the myocilin gene in a selected cohort
+            of severe primary open-angle glaucoma patients
+  JOURNAL   Sci Rep 9 (1), 3100 (2019)
+   PUBMED   30816137
+  REMARK    GeneRIF: Comprehensive sequencing of the myocilin gene in a
+            selected cohort of severe primary open-angle glaucoma patients.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2100)
+  AUTHORS   Kubota R, Noda S, Wang Y, Minoshima S, Asakawa S, Kudoh J, Mashima
+            Y, Oguchi Y and Shimizu N.
+  TITLE     A novel myosin-like protein (myocilin) expressed in the connecting
+            cilium of the photoreceptor: molecular cloning, tissue expression,
+            and chromosomal mapping
+  JOURNAL   Genomics 41 (3), 360-369 (1997)
+   PUBMED   9169133
+REFERENCE   7  (bases 1 to 2100)
+  AUTHORS   Stone EM, Fingert JH, Alward WL, Nguyen TD, Polansky JR, Sunden SL,
+            Nishimura D, Clark AF, Nystuen A, Nichols BE, Mackey DA, Ritch R,
+            Kalenak JW, Craven ER and Sheffield VC.
+  TITLE     Identification of a gene that causes primary open angle glaucoma
+  JOURNAL   Science 275 (5300), 668-670 (1997)
+   PUBMED   9005853
+REFERENCE   8  (bases 1 to 2100)
+  AUTHORS   Escribano J, Ortego J and Coca-Prados M.
+  TITLE     Isolation and characterization of cell-specific cDNA clones from a
+            subtractive library of the ocular ciliary body of a single normal
+            human donor: transcription and synthesis of plasma proteins
+  JOURNAL   J Biochem 118 (5), 921-931 (1995)
+   PUBMED   8749308
+REFERENCE   9  (bases 1 to 2100)
+  AUTHORS   Richards JE, Lichter PR, Boehnke M, Uro JL, Torrez D, Wong D and
+            Johnson AT.
+  TITLE     Mapping of a gene for autosomal dominant juvenile-onset open-angle
+            glaucoma to chromosome Iq
+  JOURNAL   Am J Hum Genet 54 (1), 62-70 (1994)
+   PUBMED   8279471
+REFERENCE   10 (bases 1 to 2100)
+  AUTHORS   Sheffield VC, Stone EM, Alward WL, Drack AV, Johnson AT, Streb LM
+            and Nichols BE.
+  TITLE     Genetic linkage of familial open angle glaucoma to chromosome
+            1q21-q31
+  JOURNAL   Nat Genet 4 (1), 47-50 (1993)
+   PUBMED   8513321
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Z98750.1 and AF001620.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 22, 2018 this sequence version replaced NM_000261.1.
+            
+            Summary: MYOC encodes the protein myocilin, which is believed to
+            have a role in cytoskeletal function. MYOC is expressed in many
+            occular tissues, including the trabecular meshwork, and was
+            revealed to be the trabecular meshwork glucocorticoid-inducible
+            response protein (TIGR). The trabecular meshwork is a specialized
+            eye tissue essential in regulating intraocular pressure, and
+            mutations in MYOC have been identified as the cause of hereditary
+            juvenile-onset open-angle glaucoma. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189667.323867.1, U85257.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2153980, SAMEA2154125
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000037502.11/ ENSP00000037502.5
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-55                Z98750.1           63095-63149         c
+            56-2100             AF001620.1         1-2045
+FEATURES             Location/Qualifiers
+     source          1..2100
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q24.3"
+     gene            1..2100
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="myocilin"
+                     /db_xref="GeneID:4653"
+                     /db_xref="HGNC:HGNC:7610"
+                     /db_xref="MIM:601652"
+     exon            1..681
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             78..1592
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="mutated trabecular meshwork-induced glucocorticoid
+                     response protein; myocilin 55 kDa subunit; myocilin
+                     trabecular meshwork inducible glucocorticoid response
+                     protein; juvenile-onset open-angle glaucoma 1"
+                     /codon_start=1
+                     /product="myocilin precursor"
+                     /protein_id="NP_000252.1"
+                     /db_xref="CCDS:CCDS1297.1"
+                     /db_xref="GeneID:4653"
+                     /db_xref="HGNC:HGNC:7610"
+                     /db_xref="MIM:601652"
+                     /translation="MRFFCARCCSFGPEMPAVQLLLLACLVWDVGARTAQLRKANDQS
+                     GRCQYTFSVASPNESSCPEQSQAMSVIHNLQRDSSTQRLDLEATKARLSSLESLLHQL
+                     TLDQAARPQETQEGLQRELGTLRRERDQLETQTRELETAYSNLLRDKSVLEEEKKRLR
+                     QENENLARRLESSSQEVARLRRGQCPQTRDTARAVPPGSREVSTWNLDTLAFQELKSE
+                     LTEVPASRILKESPSGYLRSGEGDTGCGELVWVGEPLTLRTAETITGKYGVWMRDPKP
+                     TYPYTQETTWRIDTVGTDVRQVFEYDLISQFMQGYPSKVHILPRPLESTGAVVYSGSL
+                     YFQGAESRTVIRYELNTETVKAEKEIPGAGYHGQFPYSWGGYTDIDLAVDEAGLWVIY
+                     STDEAKGAIVLSKLNPENLELEQTWETNIRKQSVANAFIICGTLYTVSSYTSADATVN
+                     FAYDTGTGISKTLTIPFKNRYKYSSMIDYNPLEKKLFAWDNLNMVTYDIKLSKM"
+     sig_peptide     78..173
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    246..248
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305|PubMed:17650508; propagated from
+                     UniProtKB/Swiss-Prot (Q99972.2); glycosylation site"
+     misc_feature    753..758
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="Cleavage, by CAPN2; propagated from
+                     UniProtKB/Swiss-Prot (Q99972.2); cleavage site"
+     misc_feature    1581..1589
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q99972.2);
+                     Region: Microbody targeting signal. /evidence=ECO:0000255"
+     exon            682..807
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            808..2100
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2081..2086
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="hexamer: AATAAA"
+     polyA_site      2100
+                     /gene="MYOC"
+                     /gene_synonym="GLC1A; GPOA; JOAG; JOAG1; TIGR"
+                     /note="major polyA site"
+ORIGIN      
+        1 gagccagcaa ggccacccat ccaggcacct ctcagcacag cagagctttc cagaggaagc
+       61 ctcaccaagc ctctgcaatg aggttcttct gtgcacgttg ctgcagcttt gggcctgaga
+      121 tgccagctgt ccagctgctg cttctggcct gcctggtgtg ggatgtgggg gccaggacag
+      181 ctcagctcag gaaggccaat gaccagagtg gccgatgcca gtataccttc agtgtggcca
+      241 gtcccaatga atccagctgc ccagagcaga gccaggccat gtcagtcatc cataacttac
+      301 agagagacag cagcacccaa cgcttagacc tggaggccac caaagctcga ctcagctccc
+      361 tggagagcct cctccaccaa ttgaccttgg accaggctgc caggccccag gagacccagg
+      421 aggggctgca gagggagctg ggcaccctga ggcgggagcg ggaccagctg gaaacccaaa
+      481 ccagagagtt ggagactgcc tacagcaacc tcctccgaga caagtcagtt ctggaggaag
+      541 agaagaagcg actaaggcaa gaaaatgaga atctggccag gaggttggaa agcagcagcc
+      601 aggaggtagc aaggctgaga aggggccagt gtccccagac ccgagacact gctcgggctg
+      661 tgccaccagg ctccagagaa gtttctacgt ggaatttgga cactttggcc ttccaggaac
+      721 tgaagtccga gctaactgaa gttcctgctt cccgaatttt gaaggagagc ccatctggct
+      781 atctcaggag tggagaggga gacaccggat gtggagaact agtttgggta ggagagcctc
+      841 tcacgctgag aacagcagaa acaattactg gcaagtatgg tgtgtggatg cgagacccca
+      901 agcccaccta cccctacacc caggagacca cgtggagaat cgacacagtt ggcacggatg
+      961 tccgccaggt ttttgagtat gacctcatca gccagtttat gcagggctac ccttctaagg
+     1021 ttcacatact gcctaggcca ctggaaagca cgggtgctgt ggtgtactcg gggagcctct
+     1081 atttccaggg cgctgagtcc agaactgtca taagatatga gctgaatacc gagacagtga
+     1141 aggctgagaa ggaaatccct ggagctggct accacggaca gttcccgtat tcttggggtg
+     1201 gctacacgga cattgacttg gctgtggatg aagcaggcct ctgggtcatt tacagcaccg
+     1261 atgaggccaa aggtgccatt gtcctctcca aactgaaccc agagaatctg gaactcgaac
+     1321 aaacctggga gacaaacatc cgtaagcagt cagtcgccaa tgccttcatc atctgtggca
+     1381 ccttgtacac cgtcagcagc tacacctcag cagatgctac cgtcaacttt gcttatgaca
+     1441 caggcacagg tatcagcaag accctgacca tcccattcaa gaaccgctat aagtacagca
+     1501 gcatgattga ctacaacccc ctggagaaga agctctttgc ctgggacaac ttgaacatgg
+     1561 tcacttatga catcaagctc tccaagatgt gaaaagcctc caagctgtac aggcaatggc
+     1621 agaaggagat gctcagggct cctgggggga gcaggctgaa gggagagcca gccagccagg
+     1681 gcccaggcag ctttgactgc tttccaagtt ttcattaatc cagaaggatg aacatggtca
+     1741 ccatctaact attcaggaat tgtagtctga gggcgtagac aatttcatat aataaatatc
+     1801 ctttatcttc tgtcagcatt tatgggatgt ttaatgacat agttcaagtt ttcttgtgat
+     1861 ttggggcaaa agctgtaagg cataatagtt tcttcctgaa aaccattgct cttgcatgtt
+     1921 acatggttac cacaagccac aataaaaagc ataacttcta aaggaagcag aatagctcct
+     1981 ctggccagca tcgaatataa gtaagatgca tttactacag ttggcttcta atgcttcaga
+     2041 tagaatacag ttgggtctca cataaccctt tacattgtga aataaaattt tcttacccaa
+//
+
