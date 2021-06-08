@@ -1,0 +1,124 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon  7 Jun 2021 21:01:36
+# Commandline: patmatmotifs
+#    [-sequence] in/MYOC.fasta
+#    [-outfile] out/motifs.patmatmotifs
+# Report_format: dbmotif
+# Report_file: out/motifs.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_000261.2     from: 1   to: 504
+# HitCount: 10
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 22
+Start = position 145 of sequence
+End = position 166 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+TAYSNLLRDKSVLEEEKKRLRQENENLARRLE
+     |                    |
+   145                    166
+
+Length = 22
+Start = position 138 of sequence
+End = position 159 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+TQTRELETAYSNLLRDKSVLEEEKKRLRQENE
+     |                    |
+   138                    159
+
+Length = 22
+Start = position 131 of sequence
+End = position 152 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+RERDQLETQTRELETAYSNLLRDKSVLEEEKK
+     |                    |
+   131                    152
+
+Length = 22
+Start = position 124 of sequence
+End = position 145 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+RELGTLRRERDQLETQTRELETAYSNLLRDKS
+     |                    |
+   124                    145
+
+Length = 22
+Start = position 117 of sequence
+End = position 138 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+ETQEGLQRELGTLRRERDQLETQTRELETAYS
+     |                    |
+   117                    138
+
+Length = 22
+Start = position 145 of sequence
+End = position 166 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+TAYSNLLRDKSVLEEEKKRLRQENENLARRLE
+     |                    |
+   145                    166
+
+Length = 22
+Start = position 138 of sequence
+End = position 159 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+TQTRELETAYSNLLRDKSVLEEEKKRLRQENE
+     |                    |
+   138                    159
+
+Length = 22
+Start = position 131 of sequence
+End = position 152 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+RERDQLETQTRELETAYSNLLRDKSVLEEEKK
+     |                    |
+   131                    152
+
+Length = 22
+Start = position 124 of sequence
+End = position 145 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+RELGTLRRERDQLETQTRELETAYSNLLRDKS
+     |                    |
+   124                    145
+
+Length = 22
+Start = position 117 of sequence
+End = position 138 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+ETQEGLQRELGTLRRERDQLETQTRELETAYS
+     |                    |
+   117                    138
+
+
+#---------------------------------------
+#---------------------------------------
