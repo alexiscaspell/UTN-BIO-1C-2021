@@ -4,3 +4,4 @@ jupyterhub-nativeauthenticator
 jupyter
 jupyterlab
 biopython
+pandas
